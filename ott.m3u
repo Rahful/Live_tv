@@ -591,7 +591,7 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary",Discovery Bengali
 http://103.180.212.191:3500/live/573.m3u8
-#EXTINF:-1 tvg-logo="" group-title="JIO TV",Discovery English
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery English
 http://103.180.212.191:3500/live/242.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" group-title="Documentary",Discovery HD Bengali
 http://103.180.212.191:3500/live/3428.m3u8
@@ -599,4 +599,172 @@ http://103.180.212.191:3500/live/3428.m3u8
 http://103.180.212.191:3500/live/463.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Documentary",Discovery HD Hindi
 http://103.180.212.191:3500/live/3444.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="KALKATA MOVIES & TV", Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" group-title="KALKATA MOVIES & TV", Moto Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 tvg-id="BantulTheGreat" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png" group-title="Kids",0. Bantul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1 tvg-id="GopalVar.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Kids",0. Gopal Var
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-id="TomandJerry2" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",0. Tom and Jerry 2
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="Kids",0. Toon Goggles
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
+#EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids",0. WowKidz (Motu Patlu)
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+
+
+#===========BDIX===========
+
+#EXTINF:-1 tvg-name="TSports HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/tsports.jpg",TSports HD
+http://198.195.239.50:8095/Tsports/index.m3u8
+
+#EXTINF:-1 tvg-name="START SPORTS1" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/starsports1hd.png",START SPORTS1
+http://198.195.239.50:8095/bdixbd.net_t.me/tvhoichoi24/video.m3u8
+
+#EXTINF:-1 tvg-name="STAR SPORTS2" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/starsports2hd.png",STAR SPORTS2
+http://198.195.239.50:8095/StarSports2/index.m3u8
+
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT1 HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg",STAR SPORTS SELECT1 HD
+http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
+
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT2 HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-2.jpg",STAR SPORTS SELECT2 HD
+http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY SPORTS 2 HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/sonySports2.png",SONY SPORTS 2 HD
+http://198.195.239.50:8095/SonyTenSports2/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY SPORTS 5 HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/sonySports5.png",SONY SPORTS 5 HD
+http://198.195.239.50:8095/SonyTenSports5/index.m3u8
+
+#EXTINF:-1 tvg-name="EURO SPORTS HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/euroSports.png",EURO SPORTS HD
+http://198.195.239.50:8095/Eurosport/index.m3u8
+
+#EXTINF:-1 tvg-name="WiLLoW" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/willow.jpg",WiLLoW
+http://198.195.239.50:8095/WiLLow/index.m3u8
+
+#EXTINF:-1 tvg-name="PTV" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/ptvsports.png",PTV
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
+
+#EXTINF:-1 tvg-name="NAGORIK" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/nagoriktv.png",NAGORIK
+http://198.195.239.50:8095/nagorik/index.m3u8
+
+#EXTINF:-1 tvg-name="SHOMOY TV HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/somoytv.png",SHOMOY TV HD
+http://198.195.239.50:8095/bdixbd.net_somoytv/video.m3u8
+
+#EXTINF:-1 tvg-name="NEWS24 HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/news24.png",NEWS24 HD
+http://198.195.239.50:8095/News24/index.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL 24" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/channel24.png",CHANNEL 24
+http://198.195.239.50:8095/Channel24/index.m3u8
+
+#EXTINF:-1 tvg-name="ATN NEWS HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/atnnews.png",ATN NEWS HD
+http://198.195.239.50:8095/bdixbd.net_AtnNews/video.m3u8
+
+#EXTINF:-1 tvg-name="EKATTOR TV HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/ekattortv.png",EKATTOR TV HD
+http://198.195.239.50:8095/ekattor/index.m3u8
+
+#EXTINF:-1 tvg-name="JAMUNA TV" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/jamunaTv.png",JAMUNA TV
+http://198.195.239.50:8095/bdixbd.net_JamunaTV/video.m3u8
+
+#EXTINF:-1 tvg-name="ATN Bangla HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/atnbangla.png",ATN Bangla HD
+http://198.195.239.50:8095/bdixbd.net_AtnNews/video.m3u8
+
+#EXTINF:-1 tvg-name="BANGLA VISION HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/banglavision.png",BANGLA VISION HD
+http://198.195.239.50:8095/bdixbd.net_Enter10Bangla/video.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL I HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/channeli.png",CHANNEL I HD
+http://198.195.239.50:8095/bdixbd.net_channelihd/video.m3u8
+
+#EXTINF:-1 tvg-name="GTV HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/gtv.png",GTV HD
+http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
+
+#EXTINF:-1 tvg-name="NTV HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/ntv.png",NTV HD
+http://198.195.239.50:8095/bdixbd.net_NTV/video.m3u8
+
+#EXTINF:-1 tvg-name="Maasranga HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/maasranga.png",Maasranga HD
+http://198.195.239.50:8095/Maasranga/index.m3u8
+
+#EXTINF:-1 tvg-name="STAR JALSHA HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/starjalshahd.png",STAR JALSHA HD
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+
+#EXTINF:-1 tvg-name="Jalsha Movies HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies HD
+http://198.195.239.50:8095/JalshaMovies/index.m3u8
+
+#EXTINF:-1 tvg-name="ZEE BANGLA  HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/zeebanglahd.png",ZEE BANGLA  HD
+http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8
+
+#EXTINF:-1 tvg-name="ZEE BANGLA CHINEMA HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/zeebanglacinema.png",ZEE BANGLA CHINEMA HD
+http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
+
+#EXTINF:-1 tvg-name="COLOR BANGLA" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/colorsbanglahd.png",COLOR BANGLA
+http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+
+#EXTINF:-1 tvg-name="COLOR BANGLA" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/colorsbanglacinema.png",COLOR BANGLA
+http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY AATH" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/sonyaath.png",SONY AATH
+http://198.195.239.50:8095/SonyAath/index.m3u8
+
+#EXTINF:-1 tvg-name="ENTER 10 BANGLA" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/Enter 10 Bangla.jpeg",ENTER 10 BANGLA
+http://198.195.239.50:8095/Enter10Bangla/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY MAX HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/sonymaxhd.png",SONY MAX HD
+http://198.195.239.50:8095/SonyMAX/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY TV HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/sonytvhd.png",SONY TV HD
+http://198.195.239.50:8095/SonyTv/index.m3u8
+
+#EXTINF:-1 tvg-name="STAR PLUS HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/starplus.png",STAR PLUS HD
+http://198.195.239.50:8095/StarPlus/index.m3u8
+
+#EXTINF:-1 tvg-name="STAR GOLD HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/starGold.png",STAR GOLD HD
+http://198.195.239.50:8095/StarGold/index.m3u8
+
+#EXTINF:-1 tvg-name="STAR MOVIES HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/starMovies.png",STAR MOVIES HD
+http://198.195.239.50:8095/StarMovies/index.m3u8
+
+#EXTINF:-1 tvg-name="ZEE TV HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/zeetv.png",ZEE TV HD
+http://198.195.239.50:8095/ZeeTV/index.m3u8
+
+#EXTINF:-1 tvg-name="ZEE CHINEMA HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/zeecinemahd.png",ZEE CHINEMA HD
+http://198.195.239.50:8095/ZeeCinema/index.m3u8
+
+#EXTINF:-1 tvg-name="COLOR CINEPLEX HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/colorscineplex.png",COLOR CINEPLEX HD
+http://198.195.239.50:8095/ColorsCineplex/index.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/discoveryhd.png",DISCOVERY HD
+http://198.195.239.50:8095/Discovery/index.m3u8
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/natgeohd.png",NATIONAL GEOGRAPHIC HD
+http://198.195.239.50:8095/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/animal-planet-hd-us.png",ANIMAL PLANET HD
+http://198.195.239.50:8095/AnimalPlanet/index.m3u8
+
+#EXTINF:-1 tvg-name="Aljazeera HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/aljazeera.png",Aljazeera HD
+http://198.195.239.50:8095/News_Aljazeera/video.m3u8
+
+#EXTINF:-1 tvg-name="B4U MOVIES" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/B4U Movies.png",B4U MOVIES
+http://198.195.239.50:8095/b4uMovies/index.m3u8
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/cartoonnetwork.png",CARTOON NETWORK HD
+http://198.195.239.50:8095/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY KIDS HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/discovery-kids-br.png",DISCOVERY KIDS HD
+http://198.195.239.50:8095/DiscoveryKids/index.m3u8
+
+#EXTINF:-1 tvg-name="POGO" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/pogo.png",POGO
+http://198.195.239.50:8095/pogo/index.m3u8
+
+#EXTINF:-1 tvg-name="SANGEET BANGLA" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/sangeetBangla.jpg",SANGEET BANGLA
+http://198.195.239.50:8095/sangeetBangla/index.m3u8
+
+#EXTINF:-1 tvg-name="9X JALWA" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/9xJalwa.png",9X JALWA
+http://198.195.239.50:8095/9XJalwa/index.m3u8
+
+#EXTINF:-1 tvg-name="SRK TV HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/srkTv.png",SRK TV HD
+http://198.195.239.50:8095/srkTv/index.m3u8
 
