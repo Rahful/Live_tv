@@ -768,3 +768,14 @@ http://198.195.239.50:8095/9XJalwa/index.m3u8
 #EXTINF:-1 tvg-name="SRK TV HD" group-title="Shawon_BDIX" tvg-logo="http://198.195.239.50/img/channels/srkTv.png",SRK TV HD
 http://198.195.239.50:8095/srkTv/index.m3u8
 
+#==========jadoo====Local IP======
+
+#EXTINF:-1 group-title="jadoo", ssselect
+http://172.31.235.10:8080/hls/55-ssselect/0_1/index.m3u8
+
+#EXTINF:-1 group-title="jadoo", tsportssd
+http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8
+
+#EXTINF:-1 group-title="jadoo", nagorik
+http://172.31.235.10:8080/hls/32-nagorik/1_0/index.m3u8
+
