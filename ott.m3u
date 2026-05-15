@@ -870,16 +870,17 @@ http://172.31.235.10:8080/hls/17-somoy/1_0/index.m3u8
 #EXTINF:-1 tvg-name="BTV" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
 http://172.31.235.10:8080/hls/1-btv/1_0/index.m3u8
 
-#EXTINF:-1 tvg-name="Duronto tv HD" group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",duronto tv HD
-http://172.31.235.10:8080/hls/31-duronto/1_0/index.m3u8
-
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/news24.png", News24
 http://172.31.235.10:8080/hls/29-news24/0_1/index.m3u8
 
 #EXTINF:-1 group-title="jadoo", Axn
 http://172.31.235.10:8080/hls/54-axn/0_1/index.m3u8
 
-#========HINDI MOVIES===========
+#EXTINF:-1 tvg-name="Duronto tv HD" group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",duronto tv HD
+http://172.31.235.10:8080/hls/31-duronto/1_0/index.m3u8
+
+
+#========HINDI_MOVIES===========
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
 http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES BOLLYWOOD
@@ -903,16 +904,6 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 
 
 #==========PREMIUM Sports==============
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",GEO SUPER
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",A SPORTS HD
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",SPORTS 18
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",DD SPORTS HD
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",PTV SPORTS
 
 #EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 1
 http://premimum.online:80/live/jen12345/jen54321/652310.ts
