@@ -647,9 +647,6 @@ http://198.195.239.50:8095/ColorsBanglaChinema/index.m3u8
 #EXTINF:-1 tvg-name="SONY AATH" group-title="BDIX" tvg-logo="http://198.195.239.50/img/channels/sonyaath.png",SONY AATH
 http://198.195.239.50:8095/SonyAath/index.m3u8
 
-#EXTINF:-1 tvg-name="ENTER 10 BANGLA" group-title="BDIX" tvg-logo="http://198.195.239.50/img/channels/Enter 10 Bangla.jpeg",ENTER 10 BANGLA
-http://198.195.239.50:8095/Enter10Bangla/index.m3u8
-
 #EXTINF:-1 tvg-name="SONY MAX HD" group-title="BDIX" tvg-logo="http://198.195.239.50/img/channels/sonymaxhd.png",SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/index.m3u8
 
@@ -676,9 +673,6 @@ http://198.195.239.50:8095/Discovery/index.m3u8
 
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" group-title="BDIX" tvg-logo="http://198.195.239.50/img/channels/natgeohd.png",NATIONAL GEOGRAPHIC HD
 http://198.195.239.50:8095/NationalGeographic/index.m3u8
-
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="BDIX" tvg-logo="http://198.195.239.50/img/channels/animal-planet-hd-us.png",ANIMAL PLANET HD
-http://198.195.239.50:8095/AnimalPlanet/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK HD" group-title="BDIX" tvg-logo="http://198.195.239.50/img/channels/cartoonnetwork.png",CARTOON NETWORK HD
 http://198.195.239.50:8095/CartoonNetwork/index.m3u8
