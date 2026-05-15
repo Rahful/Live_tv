@@ -134,7 +134,7 @@ https://tvsen6.aynascope.net/etv/index.m3u8?e=1778753301&u=78be6644-0a65-48ec-81
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="Bangla",Maasranga TV
 https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1778753302&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db4e8be3b2384ba7d772fcfee16528da
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3a0LPeoUyrCTegR1enzdiYZdKvM7kWsXn_Em5StQCB7WmHPXFr-RgcEQEPj9EzkCZIE27QxiCdRfoGBCOM1sax6Ux4z20b24QEyur77sS-5Bt6Acu7Yg-Cmihzimws3eUqqAkp5rqcirstEUkUOMVqMYfhjT9e6WtNttsPUpi5_yEQG7nhOVBJxEVQ/s1080/1000059164.png" group-title="Bangladesh", Channel 1 HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3a0LPeoUyrCTegR1enzdiYZdKvM7kWsXn_Em5StQCB7WmHPXFr-RgcEQEPj9EzkCZIE27QxiCdRfoGBCOM1sax6Ux4z20b24QEyur77sS-5Bt6Acu7Yg-Cmihzimws3eUqqAkp5rqcirstEUkUOMVqMYfhjT9e6WtNttsPUpi5_yEQG7nhOVBJxEVQ/s1080/1000059164.png" group-title="Bangla", Channel 1 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c" group-title="Bangla",Deepto TV
@@ -852,29 +852,29 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 #==========jadoo====Local IP======
 
-#EXTINF:-1 group-title="jadoo", ssselect
-http://172.31.235.10:8080/hls/55-ssselect/0_1/index.m3u8
-
-#EXTINF:-1 group-title="jadoo", tsports hd
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4", tsports hd
 http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8
 
-#EXTINF:-1 group-title="jadoo", sangeet bangla
+#EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg", ssselect
+http://172.31.235.10:8080/hls/55-ssselect/0_1/index.m3u8
+
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://www.google.com/imgres?q=sangeet%20bangla&imgurl=https%3A%2F%2Ftv.zolui.com%2Fuploads%2Ftv_image%2Fsm%2Fsangeet-bangla.png&imgrefurl=https%3A%2F%2Ftv.zolui.com%2Flive-tv%2Fsangeet-bangla.html&docid=S1o01l5ncBVQ_M&tbnid=eRxTwAl_KyYJhM&vet=12ahUKEwi8hoCrjbyUAxWUSWwGHQfIOuIQnPAOegQIdxAB..i&w=401&h=226&hcb=2&ved=2ahUKEwi8hoCrjbyUAxWUSWwGHQfIOuIQnPAOegQIdxAB", sangeet bangla
 http://172.31.235.10:8080/hls/60-sangeetbangla/1_0/index.m3u8
 
-#EXTINF:-1 group-title="jadoo", nagorik
+#EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/nagoriktv.png", nagorik
 http://172.31.235.10:8080/hls/32-nagorik/0_1/index.m3u8
 
-#####EXTINF:-1 tvg-name="Gazi-TV" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/gazi-tv.jpg",Gazi-TV HD
-http://jatrapala.com:8083/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Gazi-TV" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy-TV HD
+http://172.31.235.10:8080/hls/17-somoy/1_0/index.m3u8
 
-######EXTINF:-1 tvg-name="PTV" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/ptv.jpg",PTV
-http://jatrapala.com:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BTV" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
+http://172.31.235.10:8080/hls/1-btv/1_0/index.m3u8
 
-######EXTINF:-1 tvg-name="Discovery" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/discovery.png",Discovery
-http://jatrapala.com:8083/Feedget/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Duronto tv HD" group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",duronto tv HD
+http://172.31.235.10:8080/hls/31-duronto/1_0/index.m3u8
 
-#######EXTINF:-1 tvg-name="Animal Planet HD" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/animal-planet.jpg",Animal Planet HD
-http://jatrapala.com:8083/Feedget/AnimalPlanetHD_12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Axn" group-title="jadoo" tvg-logo="https://www.google.com/imgres?q=axn%20channel%20logo&imgurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FAXN_(India)%2FAXN_(India)-Logo.wine.png&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FAXN_(India)&docid=JHuO2YleQDRiyM&tbnid=UujVdzSeBZS3lM&vet=12ahUKEwjS3tT5jbyUAxVoRmwGHUFbEIoQnPAOegQIGRAB..i&w=3000&h=2000&hcb=2&ved=2ahUKEwjS3tT5jbyUAxVoRmwGHUFbEIoQnPAOegQIGRAB",Axn
+http://172.31.235.10:8080/hls/54-axn/0_1/index.m3u8
 
 ========HINDI MOVIES===========
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
