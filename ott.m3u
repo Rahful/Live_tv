@@ -873,8 +873,8 @@ http://172.31.235.10:8080/hls/1-btv/1_0/index.m3u8
 #EXTINF:-1 tvg-name="Duronto tv HD" group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",duronto tv HD
 http://172.31.235.10:8080/hls/31-duronto/1_0/index.m3u8
 
-#EXTINF:-1 group-title="jadoo",Axn
-http://172.31.235.10:8080/hls/54-axn/0_1/index.m3u
+#EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/news24.png", News24
+http://172.31.235.10:8080/hls/29-news24/0_1/index.m3u8
 
 ========HINDI MOVIES===========
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
