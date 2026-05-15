@@ -858,7 +858,7 @@ http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg", ssselect
 http://172.31.235.10:8080/hls/55-ssselect/0_1/index.m3u8
 
-#EXTINF:-1 group-title="jadoo" tvg-logo="https://www.google.com/imgres?q=sangeet%20bangla&imgurl=https%3A%2F%2Ftv.zolui.com%2Fuploads%2Ftv_image%2Fsm%2Fsangeet-bangla.png&imgrefurl=https%3A%2F%2Ftv.zolui.com%2Flive-tv%2Fsangeet-bangla.html&docid=S1o01l5ncBVQ_M&tbnid=eRxTwAl_KyYJhM&vet=12ahUKEwi8hoCrjbyUAxWUSWwGHQfIOuIQnPAOegQIdxAB..i&w=401&h=226&hcb=2&ved=2ahUKEwi8hoCrjbyUAxWUSWwGHQfIOuIQnPAOegQIdxAB", sangeet bangla
+#EXTINF:-1 group-title="jadoo", Sangeet Bangla
 http://172.31.235.10:8080/hls/60-sangeetbangla/1_0/index.m3u8
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/nagoriktv.png", nagorik
@@ -873,7 +873,7 @@ http://172.31.235.10:8080/hls/1-btv/1_0/index.m3u8
 #EXTINF:-1 tvg-name="Duronto tv HD" group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",duronto tv HD
 http://172.31.235.10:8080/hls/31-duronto/1_0/index.m3u8
 
-#EXTINF:-1 tvg-name="Axn" group-title="jadoo" tvg-logo="https://www.google.com/imgres?q=axn%20channel%20logo&imgurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FAXN_(India)%2FAXN_(India)-Logo.wine.png&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FAXN_(India)&docid=JHuO2YleQDRiyM&tbnid=UujVdzSeBZS3lM&vet=12ahUKEwjS3tT5jbyUAxVoRmwGHUFbEIoQnPAOegQIGRAB..i&w=3000&h=2000&hcb=2&ved=2ahUKEwjS3tT5jbyUAxVoRmwGHUFbEIoQnPAOegQIGRAB",Axn
+#EXTINF:-1 group-title="jadoo", Axn
 http://172.31.235.10:8080/hls/54-axn/0_1/index.m3u8
 
 ========HINDI MOVIES===========
