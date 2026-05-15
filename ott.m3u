@@ -694,11 +694,26 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 group-title="jadoo", ssselect
 http://172.31.235.10:8080/hls/55-ssselect/0_1/index.m3u8
 
-#EXTINF:-1 group-title="jadoo", tsportssd
+#EXTINF:-1 group-title="jadoo", tsports hd
 http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8
 
+#EXTINF:-1 group-title="jadoo", sangeet bangla
+http://172.31.235.10:8080/hls/60-sangeetbangla/1_0/index.m3u8
+
 #EXTINF:-1 group-title="jadoo", nagorik
-http://172.31.235.10:8080/hls/32-nagorik/1_0/index.m3u8
+http://172.31.235.10:8080/hls/32-nagorik/0_1/index.m3u8
+
+#EXTINF:-1 tvg-name="Gazi-TV" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/gazi-tv.jpg",Gazi-TV HD
+http://jatrapala.com:8083/GaziTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="PTV" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/ptv.jpg",PTV
+http://jatrapala.com:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Discovery" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/discovery.png",Discovery
+http://jatrapala.com:8083/Feedget/Discovery/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/animal-planet.jpg",Animal Planet HD
+http://jatrapala.com:8083/Feedget/AnimalPlanetHD_12/tracks-v1a1/mono.m3u8
 
 #=========AKKAS GO==========
 EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="AKKAS GO",Somoy TV
