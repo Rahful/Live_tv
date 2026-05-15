@@ -134,6 +134,9 @@ https://tvsen6.aynascope.net/etv/index.m3u8?e=1778753301&u=78be6644-0a65-48ec-81
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="Bangla",Maasranga TV
 https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1778753302&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db4e8be3b2384ba7d772fcfee16528da
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3a0LPeoUyrCTegR1enzdiYZdKvM7kWsXn_Em5StQCB7WmHPXFr-RgcEQEPj9EzkCZIE27QxiCdRfoGBCOM1sax6Ux4z20b24QEyur77sS-5Bt6Acu7Yg-Cmihzimws3eUqqAkp5rqcirstEUkUOMVqMYfhjT9e6WtNttsPUpi5_yEQG7nhOVBJxEVQ/s1080/1000059164.png" group-title="Bangladesh", Channel 1 HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c" group-title="Bangla",Deepto TV
 https://tvsen5.aynascope.net/DeeptoTVHD/index.m3u8?e=1778753303&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=54853acf882ed4e7547cc3bb699a5de7
 
@@ -413,9 +416,6 @@ https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892" group-title="Channels",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Channels",Sports Fishing TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570" group-title="Channels",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
@@ -694,18 +694,10 @@ http://103.180.212.191:3500/live/3444.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0wag2SQ-wACpAMpjwb4Jty_-0TWRm6hyphenhypheng_jvGD0hbzxPlHQuAGwXUs1AxvLVqzuZ_XWgNf_TF7KIXVK_8ta90m_j5oJXb-tTyHzWqGuX4q_zltQ2H_kfVAN_U44nQsGLH22xeYY1EyyPqnaOxWdk9fUcwsnj676OzuvP-HQ8oyRvq4ZEzsBcvGRfhdg/s1080/1000060074.png" group-title="Documentary", Discovery Bangla
 https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=573
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjclA_gDBqUdomkP0VQd2BBOOKbwf2a1WFl2lfjyj_barMq0ZgVMSrPtKDgFXF7pK3NZeSvT1tEerTbalzt-6n-OgNl2acWlkbXEVUZvzddfLy33ETUGtaeTF5hoMt5JqH6lZqQX_Md36hs2zkTEueFEwe_ziznQruJLGx78nUhSgW3zr9iDAJHf_XXBQ/s600/Nur_20251215_125830_0000.png" group-title="Documentary", Discovery HD
-https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmXfl5LEm632YDgJh2KmO3_EAmMRkzTjuQublDb22BFQ4vgXlREAguqUum4PUk_Wr_D_FMfHld-c_PfVoQNUY8aVei4D71aRJjXtUBEd1NEz0hUwfbrIwO3Ju6j5toAZrdovsLrnSdfhI6VyNHyWmNh0ELZ63diKkczBr7bSZvc8mV2CA1H_Huvav3vw/s1080/1000015299.png" group-title="Documentary", Discovery Science
-https://stream.torongoplus.workers.dev/jazzauth/Discovery-Science-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtFDjEiLBs8dPsdWuOegr9tsaUPqGOt6GxB7bubg_Xhq8KXOD4mcriAUCN01Q5Y0Z_hF_TdVB3adqj_DiaxTk4zuIhHxlXH-yT1gx8E1XdvbZMcZmX7-8LPgQpGh4xi3W4qbW6sgBYwm464wFlo-U8irYW0GS8bsGc8SHtrqXc-FjMH-3w8J-mumakRQ/s1080/1000060533.png" group-title="Documentary", Nat Geo Wild
-https://cors-anywhere.froala.com/84.17.50.102/natgeowild/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_xqKi53cyxWPeBO9M4N_MTna0uVF-hOkOTSMFULJExw1yfuk9uwYklCocq5an3bZnUXEgMk96Xvm2CfCz8BEqmMtwA1L5djhujsX8IeTqBtOTpubohWRPUBmH9VJ5Tij6XGRU1lPgjHnp3jWzUYNSEvSjv1nPiO38zJB6PqfRjQyO9zLRpnPmKRrwg/s600/Nur_20251219_134350_0000.png" group-title="Documentary", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaYKo4nsfjl-QfO-HJ3R700iaCp-x3LsKi-rPiy09nA70YvHSz_q42nYSq85XlwA1cnXx6bIQjS5PHnXy2aHYNoLOGp8_MF5s0J9C-tCdIWTYw2sOH026kYor6xEFNopLemLlZIs6BjqIxBaRyp6Wod6hXKggv4sfs44jsYkRKctlwMivN_vi_U0bzA/s1080/1000010034.png" group-title="Documentary", History  TV
 https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRonLdyED6DxrFiHtSbijoISIVu0wyerZD0uDu-b1BOW81T7wzcDkonSJ6grdkAAS5-QeVMw-Nv4x1ZmrpFUEcZmiQMssLJZkgFzAUwvKqDUJLbavfQYlyCC-jeqPV6BRm_jk3ZBiDzZOJE9pd9EgWuGsQwvNdbGeULhoKQY0PrWoo5DnrzSvhfFh1bg/s1080/1000015298.png" group-title="Documentary", Sony BBC Earth
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
 
 #===========KIDS===================
 
@@ -747,6 +739,36 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCVgEjMPd96Pdm1Q5cluMetRZUIjXCwNbuZZoFKF1NcrGBUmx8v6-7j2774IF0DFyzoINJJDTVYr9Wj0uJMDmm0tQceMIzKKz-ZWgVxp2bsamINZnsgrsSFtiY-5pjmm1_UQOvcyYUWNQc_6sRGIpAyQAiTDX5yqERQartTeGI95RLB7dJr6fj84cS7A/s1080/1000015297.png" group-title="VIP-Sports", Sony Sports 5
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+
+#============Drama===========
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png" group-title="Drama", G-Series
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png" group-title="Drama", Zee Bangla
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=625
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png" group-title="Drama", Colors Bangla
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="Drama", Star Jalsha
+https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilwqskBGe2fTWJKVAbyTt7UXMUV2lLdSX4cbAP6hD9_KX46uuPgicQN1znONcMYtgPkyxtVNRm9uHaeElMZIGOvV7TkkOiPWcGurTVu803W3V0BlQQIMtRiabDBevG1rWJW5ihSkLBkXZef75BZd956AUzFnzTQaVHW_bktBjCPv1rcjknsfIAjJGa_A/s600/Nur_20251219_134111_0000.png" group-title="Drama", Star Plus
+https://padmaonline.duckdns.org:8088/StarPlusHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDpf5PLJfEjQliHyXOetJKGR5Q-gxacm3y45lCxJe4mr50YG_OdwmItER0TLDfIGbqvhg0FVPtdu3LZEoNIhMQezE9VAijrEByUv2t7lxlwwYJHXHyVY_BAkhB0LHlkhi31iLKIyu-yPgB24sBHqtbjFn-NsWuMoD_Qg1Qp3fti7A3AaCJ_hdWiU-5A/s1080/1000059778.png" group-title="Drama", And TV HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=472
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScJWuaVmmR61d6_nj09ks_bH6ZtLJh2yUSLCaDlg5cvDSfcZm6aHoBFMbagRf0e3VeHuFNm_Y_E8Alpb-XII9Nm21-x7kj7INw1u_CbOolqhCBW8PltXPfoTIePgqzphhrX42zAjqwzIg_vuzBzyZ80RK5dmCHdd02NiA-HUuZATdMrrEUJ2RSv3XVA/s1080/1000015509.png" group-title="Drama", Zee TV
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=167
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png" group-title="Drama", Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcqLiHMjvLT8XqdalwBwQGVmhZOShc_6HJhREB83W6As-mqWqJBTbWr5GyxemwlyQX56tvOCrs2pNIxd7trX1Xfm2YAuwNSCYM5T6Ymul5bn5UN3hT-y9RZRG26FFzT7k7YroC5Pc69ZMCm_GnNdKAN5KrVKonLDQ_HriDLfA-2p8lkeRxH1_HOziPNw/s600/Nur_20251107_000656_0000.png" group-title="Drama", Hum Sitaray
+https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2GhvnBFSJrh5w51jX8ZTvd2fMp9S_kjnenXDDItSDOyEfXMBZtmzFfuCCTAAwVlY_bMJvlGw0yzqDCCh4G8cI02Iiv5oEIqQP_y8XZ-EB-icXoRd0zWDcburc-kpS2UxS8LVpe1EWU6iIQRUd2tx-NIYl9-vGNDXnS61l8SJk44ul4sQirGmU7RFhSg/s1080/1000019127.png" group-title="Drama", Exp Entertainment
+https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDkwsX5m4N19drh6W0y6GTHzKK5rSuKbs6-DQZ6xaOYrQYIS_G-BcJChtQsHEix5GXHzQ9n2gyvLqfrvZ791BBu2EriGJbs3B3-71IoF7hHHBRhYBSCNaBdwEcQQjLi-4i2yUVkKZnjE9_EuoRB59ybgp-kdu8b8s_rh7WaB2VQK5CI-cEWkjTLsvwnw/s1080/1000023513.png" group-title="Drama", GREEN Ent. TV
+https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit0qcnH_W9u_tYYLFtiSInZHF15Y6j2B3sAbROlKejZ2mhXoNRHGyRYgk2ZgBrbFGR46MxPVJE8rX97PiSjv8CwouIdSZsdddDYB9zN-ZxMpFnCJJEu5IhcT-TS9rtIY4lQnJ5ueAO_FJYaiOwWc6hNG6uupodBMGECYtA5nfP6vHlKP165NqjFSU8Fw/s600/Nur_20251222_155957_0000.png" group-title="Drama", Geo  Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUUr5b6nt32L9MbGNHgY_TYzD6tb5gy_3t7LjrIEdX8x5qURZJ1QjyZVO_bE7zgUuny3K2gg3nPYFWVuls07NeP8AZ1Ko2rK63afWf9dgfr4ZP2gTP-OdwjlTfRnqaMmRBA8scsekezXydvxlou7pd1-FcA0IDE9W2jPWuwgm-LjS_wM6OH9IDeGFU6Q/s600/Nur_20251106_235545_0000.png" group-title="Drama", Hum TV
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJevI_k2cbabTVI7ylFRiaqGmXVfS30w4BHpF72kXn9AMMgZS8L5YQ9DPrx3DqwNSuUs7cDCL1NSD6FM3ne3pTP-yFdT1Mr8nxregkTX-3ZXquReqpi38_lW1WTNa0DrvkYnD6jsB-Ruw-cymWq4Ely5oPmZ4qduZ1CvVCLSAV6Z9XxB8i2AZV8bgVNg/s600/Nur_20251106_235521_0000.png" group-title="Drama", ARY Digital HD
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
 
 #===========BDIX===========
 
@@ -842,16 +864,16 @@ http://172.31.235.10:8080/hls/60-sangeetbangla/1_0/index.m3u8
 #EXTINF:-1 group-title="jadoo", nagorik
 http://172.31.235.10:8080/hls/32-nagorik/0_1/index.m3u8
 
-#EXTINF:-1 tvg-name="Gazi-TV" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/gazi-tv.jpg",Gazi-TV HD
+#####EXTINF:-1 tvg-name="Gazi-TV" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/gazi-tv.jpg",Gazi-TV HD
 http://jatrapala.com:8083/GaziTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="PTV" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/ptv.jpg",PTV
+######EXTINF:-1 tvg-name="PTV" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/ptv.jpg",PTV
 http://jatrapala.com:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Discovery" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/discovery.png",Discovery
+######EXTINF:-1 tvg-name="Discovery" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/discovery.png",Discovery
 http://jatrapala.com:8083/Feedget/Discovery/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Animal Planet HD" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/animal-planet.jpg",Animal Planet HD
+#######EXTINF:-1 tvg-name="Animal Planet HD" group-title="jadoo" tvg-logo="http://jatrapala.com/uploads/tv_image/animal-planet.jpg",Animal Planet HD
 http://jatrapala.com:8083/Feedget/AnimalPlanetHD_12/tracks-v1a1/mono.m3u8
 
 ========HINDI MOVIES===========
@@ -992,35 +1014,6 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXOuGttq9F58UPTuH3QZx-eSpH2qlunCRfruR4y9lPNr_D-5goUxfNOZzdj0cLwj89VCOwlaiz2ju4TjoZ2GhXQC1hOjhZVz2gFX9PjQl-BxJos3dq2WJQFl2oluHg-_1T9ES4Hs6LJ5QMcxsvkQFymYXZUV2vLvgACYc3aeahNDXSmap2ES7s5D94w/s600/Nur_20251219_134908_0000.png" group-title="Music", B4U Music
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 
-#============Drama===========
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRVFdWp9xwlb_aBt92V8P8V52hyphenhyphen0Kn2Qz8ge4cbaijlKQdH86RXexTJrvskKsSVMrLbDaLsRwFSK7VdFzdYd9u2FhdHs6o3erPlx9NehopiqcH2tK9ApMNlavhZYLVx2WhpUhpm0efu4OxgVDTYTIZeBi59t5bK9kJHEKtfgoSzC2lNVABB2TMvbiB1w/s600/Nur_20251219_134007_0000.png" group-title="Drama", G-Series
-https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png" group-title="Drama", Zee Bangla
-https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=625
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png" group-title="Drama", Colors Bangla
-https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="Drama", Star Jalsha
-https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilwqskBGe2fTWJKVAbyTt7UXMUV2lLdSX4cbAP6hD9_KX46uuPgicQN1znONcMYtgPkyxtVNRm9uHaeElMZIGOvV7TkkOiPWcGurTVu803W3V0BlQQIMtRiabDBevG1rWJW5ihSkLBkXZef75BZd956AUzFnzTQaVHW_bktBjCPv1rcjknsfIAjJGa_A/s600/Nur_20251219_134111_0000.png" group-title="Drama", Star Plus
-https://padmaonline.duckdns.org:8088/StarPlusHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDpf5PLJfEjQliHyXOetJKGR5Q-gxacm3y45lCxJe4mr50YG_OdwmItER0TLDfIGbqvhg0FVPtdu3LZEoNIhMQezE9VAijrEByUv2t7lxlwwYJHXHyVY_BAkhB0LHlkhi31iLKIyu-yPgB24sBHqtbjFn-NsWuMoD_Qg1Qp3fti7A3AaCJ_hdWiU-5A/s1080/1000059778.png" group-title="Drama", And TV HD
-https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=472
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScJWuaVmmR61d6_nj09ks_bH6ZtLJh2yUSLCaDlg5cvDSfcZm6aHoBFMbagRf0e3VeHuFNm_Y_E8Alpb-XII9Nm21-x7kj7INw1u_CbOolqhCBW8PltXPfoTIePgqzphhrX42zAjqwzIg_vuzBzyZ80RK5dmCHdd02NiA-HUuZATdMrrEUJ2RSv3XVA/s1080/1000015509.png" group-title="Drama", Zee TV
-https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=167
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png" group-title="Drama", Enter10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcqLiHMjvLT8XqdalwBwQGVmhZOShc_6HJhREB83W6As-mqWqJBTbWr5GyxemwlyQX56tvOCrs2pNIxd7trX1Xfm2YAuwNSCYM5T6Ymul5bn5UN3hT-y9RZRG26FFzT7k7YroC5Pc69ZMCm_GnNdKAN5KrVKonLDQ_HriDLfA-2p8lkeRxH1_HOziPNw/s600/Nur_20251107_000656_0000.png" group-title="Drama", Hum Sitaray
-https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2GhvnBFSJrh5w51jX8ZTvd2fMp9S_kjnenXDDItSDOyEfXMBZtmzFfuCCTAAwVlY_bMJvlGw0yzqDCCh4G8cI02Iiv5oEIqQP_y8XZ-EB-icXoRd0zWDcburc-kpS2UxS8LVpe1EWU6iIQRUd2tx-NIYl9-vGNDXnS61l8SJk44ul4sQirGmU7RFhSg/s1080/1000019127.png" group-title="Drama", Exp Entertainment
-https://live.thebosstv.com:30443/dwlive/EXP-ENTERTAINMENT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDkwsX5m4N19drh6W0y6GTHzKK5rSuKbs6-DQZ6xaOYrQYIS_G-BcJChtQsHEix5GXHzQ9n2gyvLqfrvZ791BBu2EriGJbs3B3-71IoF7hHHBRhYBSCNaBdwEcQQjLi-4i2yUVkKZnjE9_EuoRB59ybgp-kdu8b8s_rh7WaB2VQK5CI-cEWkjTLsvwnw/s1080/1000023513.png" group-title="Drama", GREEN Ent. TV
-https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit0qcnH_W9u_tYYLFtiSInZHF15Y6j2B3sAbROlKejZ2mhXoNRHGyRYgk2ZgBrbFGR46MxPVJE8rX97PiSjv8CwouIdSZsdddDYB9zN-ZxMpFnCJJEu5IhcT-TS9rtIY4lQnJ5ueAO_FJYaiOwWc6hNG6uupodBMGECYtA5nfP6vHlKP165NqjFSU8Fw/s600/Nur_20251222_155957_0000.png" group-title="Drama", Geo  Entertainment
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUUr5b6nt32L9MbGNHgY_TYzD6tb5gy_3t7LjrIEdX8x5qURZJ1QjyZVO_bE7zgUuny3K2gg3nPYFWVuls07NeP8AZ1Ko2rK63afWf9dgfr4ZP2gTP-OdwjlTfRnqaMmRBA8scsekezXydvxlou7pd1-FcA0IDE9W2jPWuwgm-LjS_wM6OH9IDeGFU6Q/s600/Nur_20251106_235545_0000.png" group-title="Drama", Hum TV
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJevI_k2cbabTVI7ylFRiaqGmXVfS30w4BHpF72kXn9AMMgZS8L5YQ9DPrx3DqwNSuUs7cDCL1NSD6FM3ne3pTP-yFdT1Mr8nxregkTX-3ZXquReqpi38_lW1WTNa0DrvkYnD6jsB-Ruw-cymWq4Ely5oPmZ4qduZ1CvVCLSAV6Z9XxB8i2AZV8bgVNg/s600/Nur_20251106_235521_0000.png" group-title="Drama", ARY Digital HD
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
 
 
 
