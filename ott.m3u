@@ -856,13 +856,13 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 http://172.31.235.10:8080/hls/32-nagorik/0_1/index.m3u8
 
 #EXTINF:-1 tvg-name="Somay Tv" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy-TV HD
-http://172.31.235.10:8080/hls/17-somoy/1_0/playlist.m3u8
+http://172.31.235.10:8080/hls/17-somoy/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BTV" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
-http://172.31.235.10:8080/hls/1-btv/1_0/index.m3u8
+http://172.31.235.10:8080/hls/1-btv/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/news24.png", News24
-http://172.31.235.10:8080/hls/29-news24/0_1/index.m3u8
+http://172.31.235.10:8080/hls/29-news24/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo", Axn
 http://172.31.235.10:8080/hls/54-axn/0_1/index.m3u8
@@ -877,7 +877,7 @@ http://172.31.235.10:8080/hls/34-tsportssd/playlist.m3u8
 http://172.31.235.10:8080/hls/55-ssselect/0_1/index.m3u8
 
 #EXTINF:-1 group-title="jadoo", Sangeet Bangla
-http://172.31.235.10:8080/hls/60-sangeetbangla/1_0/playlist.m3u8
+http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
 
 
 #========HINDI_MOVIES===========
