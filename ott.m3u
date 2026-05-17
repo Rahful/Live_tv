@@ -853,7 +853,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #==========jadoo====Local IP======
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/nagoriktv.png", nagorik
-http://172.31.235.10:8080/hls/32-nagorik/0_1/index.m3u8
+http://172.31.235.10:8080/hls/32-nagorik/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Somay Tv" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy-TV HD
 http://172.31.235.10:8080/hls/17-somoy/playlist.m3u8
@@ -865,16 +865,16 @@ http://172.31.235.10:8080/hls/1-btv/playlist.m3u8
 http://172.31.235.10:8080/hls/29-news24/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo", Axn
-http://172.31.235.10:8080/hls/54-axn/0_1/index.m3u8
+http://172.31.235.10:8080/hls/54-axn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Duronto tv HD" group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",duronto tv HD
-http://172.31.235.10:8080/hls/31-duronto/1_0/index.m3u8
+http://172.31.235.10:8080/hls/31-duronto/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4", tsports hd
 http://172.31.235.10:8080/hls/34-tsportssd/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg", ssselect
-http://172.31.235.10:8080/hls/55-ssselect/0_1/index.m3u8
+http://172.31.235.10:8080/hls/55-ssselect/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo", Sangeet Bangla
 http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
