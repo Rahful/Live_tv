@@ -699,6 +699,23 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaYKo4nsfjl-QfO-HJ3R700iaCp-x3LsKi-rPiy09nA70YvHSz_q42nYSq85XlwA1cnXx6bIQjS5PHnXy2aHYNoLOGp8_MF5s0J9C-tCdIWTYw2sOH026kYor6xEFNopLemLlZIs6BjqIxBaRyp6Wod6hXKggv4sfs44jsYkRKctlwMivN_vi_U0bzA/s1080/1000010034.png" group-title="Documentary", History  TV
 https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/discovery-bangla.png" group-title="Documentary",DISCOVERY BANGLA HD
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpnMqTvv43nvMshaZB66kj4/m3u8
+#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/nat-geo-bangla.png" group-title="Documentary",NAT GEO BANGLA
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhLoqlkjEIaHlaTIhZkcKuY/m3u8
+#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Documentary",SONY BBC EARTH HD
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHht6ok6aPB3qdietbkF4fr0/m3u8
+
+#============Indian_Bangla_Movie==================
+#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/জলস-movies-hd.png" group-title="Indian Bangla Movie",JALSHA MOVIES HD
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHogFYqTR2G8EGiiWQCI5qxc/m3u8
+
+#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Indian Bangla Movie",ZEE BANGLA CINEMA
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkcIplnxIsmhoOTHWsKCAU8/m3u8
+
+#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="Indian Bangla Movie",COLORS BANGLA CINEMA
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqxA_wtar5xGHl1neuRE51U/m3u8
+
 #===========KIDS===================
 
 #EXTINF:-1 tvg-id="BantulTheGreat" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png" group-title="Kids",0. Bantul The Great
