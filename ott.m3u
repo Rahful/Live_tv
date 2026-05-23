@@ -699,9 +699,6 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaYKo4nsfjl-QfO-HJ3R700iaCp-x3LsKi-rPiy09nA70YvHSz_q42nYSq85XlwA1cnXx6bIQjS5PHnXy2aHYNoLOGp8_MF5s0J9C-tCdIWTYw2sOH026kYor6xEFNopLemLlZIs6BjqIxBaRyp6Wod6hXKggv4sfs44jsYkRKctlwMivN_vi_U0bzA/s1080/1000010034.png" group-title="Documentary", History  TV
 https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
 
-#============Indian_Bangla_Movie==================
-
-
 #===========KIDS===================
 
 #EXTINF:-1 tvg-id="BantulTheGreat" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png" group-title="Kids",0. Bantul The Great
@@ -883,10 +880,10 @@ http://172.31.235.10:8080/hls/55-ssselect/playlist.m3u8
 http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
 
 #=======Bangla Movie=========
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/toffee_movie.png" group-title="RoarZone",Toffee Movies
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/toffee_movie.png" group-title="Bangla Movie",Toffee Movies
 https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8?token=6ee21cdcee9234c4777949504b8a90e5ab2622d6-1c14eecdcbed2a0531173b1e28f53765-1779573243-1779562443
 
-#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="SM All TV",Movie Bangla
+#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangla Movie",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #========HINDI_MOVIES===========
