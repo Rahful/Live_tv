@@ -886,115 +886,18 @@ http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
 #========HINDI_MOVIES===========
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
 http://103.175.73.12:8080/live/53/53_0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES BOLLYWOOD
-http://103.229.254.25:7001/play/a07l/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES MOVIES
-http://103.229.254.25:7001/play/a07k/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",Goldmines 2
 http://103.175.73.12:8080/live/46/46_0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",Goldmines Action
 http://103.175.73.12:8080/live/584/584_0.m3u8
-
-#EXTINF:-1 group-title="HINDI MOVIES",B4U KADAK
-http://103.229.254.25:7001/play/a08c/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",Bollywood Action
 http://103.229.254.25:7001/play/a0es/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",DHAMAKA MOVIES
-
 #EXTINF:-1 group-title="HINDI MOVIES",B4U MOVIES
 http://103.175.73.12:8080/live/43/43_0.m3u8
 
 
-
 #==========PREMIUM Sports==============
 
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 1
-http://premimum.online:80/live/jen12345/jen54321/652310.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 1 English
-http://premimum.online:80/live/jen12345/jen54321/676385.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 2
-http://premimum.online:80/live/jen12345/jen54321/652311.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 2 English
-http://premimum.online:80/live/jen12345/jen54321/652319.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 3
-http://premimum.online:80/live/jen12345/jen54321/652312.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 4
-http://premimum.online:80/live/jen12345/jen54321/652313.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 5
-http://premimum.online:80/live/jen12345/jen54321/652314.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 6
-http://premimum.online:80/live/jen12345/jen54321/652315.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 7
-http://premimum.online:80/live/jen12345/jen54321/652316.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 8
-http://premimum.online:80/live/jen12345/jen54321/652317.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Bein Sports 9
-http://premimum.online:80/live/jen12345/jen54321/652318.ts
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",ESPN
-http://premimum.online:80/live/jen12345/jen54321/503.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",ESPN
-http://premimum.online:80/live/jen12345/jen54321/155.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",ESPN 3
-http://premimum.online:80/live/jen12345/jen54321/505.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TSN 1
-http://premimum.online:80/live/jen12345/jen54321/616080.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TSN 2
-http://premimum.online:80/live/jen12345/jen54321/616081.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TSN 3
-http://premimum.online:80/live/jen12345/jen54321/616082.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TSN 4
-http://premimum.online:80/live/jen12345/jen54321/616083.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TSN 5
-http://premimum.online:80/live/jen12345/jen54321/616084.ts
-
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",Sky Sports Football
-https://premimum.online:443/live/Jen12345/Jen54321/23334.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",SUPERSPORTS LALIGA HD
-https://premimum.online:443/live/Jen12345/Jen54321/515.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",SUPERSPORTS PSL HD
-https://premimum.online:443/live/Jen12345/Jen54321/517.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",SUPERSPORTS PREMIER LEAGUE HD
-https://premimum.online:443/live/Jen12345/Jen54321/518.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",SUPERSPORTS FOOTBALL HD
-https://premimum.online:443/live/Jen12345/Jen54321/523.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Now Sports
-http://premimum.online:80/live/jen12345/jen54321/688301.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",SPORT TV 1
-http://premimum.online:80/live/jen12345/jen54321/688307.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",SPORT TV 2
-http://premimum.online:80/live/jen12345/jen54321/315.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",SPORT TV 3
-http://premimum.online:80/live/jen12345/jen54321/316.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",SPORT TV 5
-http://premimum.online:80/live/jen12345/jen54321/318.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",DAZN 1 HD
-http://premimum.online:80/live/jen12345/jen54321/327.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",DAZN 2 HD
-http://premimum.online:80/live/jen12345/jen54321/564.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",DAZN 3 HD
-http://premimum.online:80/live/jen12345/jen54321/329.ts
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",Premier Sports 1
-http://premimum.online:80/live/jen12345/jen54321/5029.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",Premier Sports 2
-http://premimum.online:80/live/jen12345/jen54321/5030.ts
-
-#EXTINF:-1 group-title="PREMIUM SPORTS",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="PREMIUM SPORTS",TNT Sports 1
-http://premimum.online:80/live/jen12345/jen54321/186627.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TNT Sports 2
-http://premimum.online:80/live/jen12345/jen54321/285.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TNT Sports 3
-http://premimum.online:80/live/jen12345/jen54321/148090.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TNT Sports 4
-http://premimum.online:80/live/jen12345/jen54321/186630.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TNT Sports 5
-http://premimum.online:80/live/jen12345/jen54321/186631.ts
-#EXTINF:-1 group-title="PREMIUM SPORTS",TNT Sports 6
-http://premimum.online:80/live/jen12345/jen54321/186632.ts
 
 
 #=======Music=============
@@ -1416,8 +1319,4 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779716730:KeyName=prod_linear:Signature=ZVlSvRR8yWp65bi-RI--YWQdAAUuAadnw2naqDcVN2YMu8QDaS6BvqW0Qtm7BLlYTsfjzBY8XiKHaN5k3MGBBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
-
-
-
-
 
