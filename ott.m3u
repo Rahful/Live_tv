@@ -891,7 +891,6 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sonymax2.png" group-title="HINDI MOVIES",Sony Max 2
 https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=9e945acc27a6f440aff8b29da2b62f25d39ca179-69765d2f4f6d7755d1a715cc4d56977e-1779573243-1779562443
 
-
 #==========PREMIUM Sports==============
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/espn.png" group-title="PREMIUM SPORTS",Sony Espn
 https://edge2.roarzone.net:8447/roarzone/edge5/espn/index.m3u8?token=dac7f5b96aac54b61ffcd21534ce21310ff8c32e-d1a7f5012d27aaeb6d1e84a4ae0503c3-1779573243-1779562443
@@ -1372,4 +1371,3 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779716730:KeyName=prod_linear:Signature=ZVlSvRR8yWp65bi-RI--YWQdAAUuAadnw2naqDcVN2YMu8QDaS6BvqW0Qtm7BLlYTsfjzBY8XiKHaN5k3MGBBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
-
