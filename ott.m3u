@@ -873,6 +873,10 @@ https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8?token=6ee
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangla_Movie",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Bangla_Movie",Jalsha Movie HD
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+
+
 #========HINDI_MOVIES===========
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
 http://103.175.73.12:8080/live/53/53_0.m3u8
