@@ -889,36 +889,26 @@ http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 
 #=============BEIN Sports==========
-#EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 1 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242268&extension=ts
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985127&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 2 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242267&extension=ts
+
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985128&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 3 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242266&extension=ts
+
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985129&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 4 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242265&extension=ts
+
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985130&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 5 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242264&extension=ts
+
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985131&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 6 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242263&extension=ts
+
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 7 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242262&extension=ts
+
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 8 FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242260&extension=ts
 
 #========HINDI_MOVIES===========
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
