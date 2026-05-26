@@ -888,6 +888,20 @@ http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla_Movie",Sananda Tv
 https://live.sanandatelevision.in/sananda/index.m3u8
 
+#========HINDI_MOVIES===========
+#EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
+http://103.175.73.12:8080/live/53/53_0.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES",Goldmines 2
+http://103.175.73.12:8080/live/46/46_0.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES",Goldmines Action
+http://103.175.73.12:8080/live/584/584_0.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES",Bollywood Action
+http://103.229.254.25:7001/play/a0es/index.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES",B4U MOVIES
+http://103.175.73.12:8080/live/43/43_0.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sonymax2.png" group-title="HINDI MOVIES",Sony Max 2
+https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=9e945acc27a6f440aff8b29da2b62f25d39ca179-69765d2f4f6d7755d1a715cc4d56977e-1779573243-1779562443
+
 #=============BEIN Sports==========
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985127&extension=ts
@@ -909,20 +923,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&e
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=ts
-
-#========HINDI_MOVIES===========
-#EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
-http://103.175.73.12:8080/live/53/53_0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",Goldmines 2
-http://103.175.73.12:8080/live/46/46_0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",Goldmines Action
-http://103.175.73.12:8080/live/584/584_0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",Bollywood Action
-http://103.229.254.25:7001/play/a0es/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",B4U MOVIES
-http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sonymax2.png" group-title="HINDI MOVIES",Sony Max 2
-https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=9e945acc27a6f440aff8b29da2b62f25d39ca179-69765d2f4f6d7755d1a715cc4d56977e-1779573243-1779562443
 
 #==========PREMIUM Sports==============
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/espn.png" group-title="PREMIUM SPORTS",Sony Espn
@@ -1362,7 +1362,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779716730:KeyName=prod_linear:Signature=ZVlSvRR8yWp65bi-RI--YWQdAAUuAadnw2naqDcVN2YMu8QDaS6BvqW0Qtm7BLlYTsfjzBY8XiKHaN5k3MGBBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
 
-
 #===========Live Sports==============
 
 #EXTINF:-1 tvg-logo="https://scdnmain.net/assets/tournament/40-c.png" group-title="LIVE SPORTS",Formula 1 | FANCODE FHD [DRM]
@@ -1374,7 +1373,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/2828/image" group-title="LIVE SPORTS",beIN ENGLISH 2 FHD [DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
