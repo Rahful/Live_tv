@@ -870,7 +870,7 @@ http://172.31.235.10:8080/hls/34-tsportssd/playlist.m3u8
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg", ssselect
 http://172.31.235.10:8080/hls/55-ssselect/playlist.m3u8
 
-#EXTINF:-1 group-title="jadoo", Sangeet Bangla
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380", Sangeet Bangla
 http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
 
 #=======Bangla Movie=========
@@ -894,7 +894,6 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla_Movie",Sananda Tv
 https://live.sanandatelevision.in/sananda/index.m3u8
-
 #========HINDI_MOVIES===========
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
 http://103.175.73.12:8080/live/53/53_0.m3u8
