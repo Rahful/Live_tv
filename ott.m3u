@@ -965,8 +965,6 @@ https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist
 https://tplay.live/originals/bengali-beats/index.m3u8
 
 #=========Toffee===========
-#EXTM3U
-
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/ljE2lZ0BNnOkwJLW9lrg/posters/b4bee75a-b8a3-4594-b562-6e3910d71625.png",BD VS PAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1780120239:KeyName=prod_live_events:Signature=zOvMmZL1nQ7w8y-t6ooCDHs_9VXEr-QPNu1huILVHwwWl_MytERpJAnGDQ2I6TJ8q06mBmdWOvrWFlELiHzMBg"}
