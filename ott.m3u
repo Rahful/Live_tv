@@ -892,6 +892,9 @@ https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in" tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg" group-title="Bangla_Movie",MOV | ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png" group-title="SM All TV",Mohona TV HD
+http://sm-monirul.top/SM/live.php?id=397.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla_Movie",Sananda Tv
 https://live.sanandatelevision.in/sananda/index.m3u8
 
@@ -963,6 +966,9 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BengaliBeats" tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png" group-title="Bangla_Movie",MU | Bengali Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="SM All TV",Gaan Bangla
 https://tplay.live/originals/bengali-beats/index.m3u8
 
 #=========Toffee===========
