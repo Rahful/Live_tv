@@ -31,6 +31,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="AKKAS GO",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3a0LPeoUyrCTegR1enzdiYZdKvM7kWsXn_Em5StQCB7WmHPXFr-RgcEQEPj9EzkCZIE27QxiCdRfoGBCOM1sax6Ux4z20b24QEyur77sS-5Bt6Acu7Yg-Cmihzimws3eUqqAkp5rqcirstEUkUOMVqMYfhjT9e6WtNttsPUpi5_yEQG7nhOVBJxEVQ/s1080/1000059164.png" group-title="Bangla", Channel 1 HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="AKKAS GO",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="AKKAS GO",Channel I HD
@@ -131,9 +136,6 @@ https://tvsen6.aynascope.net/etv/index.m3u8?e=1778753301&u=78be6644-0a65-48ec-81
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="Bangla",Maasranga TV
 https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1778753302&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db4e8be3b2384ba7d772fcfee16528da
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3a0LPeoUyrCTegR1enzdiYZdKvM7kWsXn_Em5StQCB7WmHPXFr-RgcEQEPj9EzkCZIE27QxiCdRfoGBCOM1sax6Ux4z20b24QEyur77sS-5Bt6Acu7Yg-Cmihzimws3eUqqAkp5rqcirstEUkUOMVqMYfhjT9e6WtNttsPUpi5_yEQG7nhOVBJxEVQ/s1080/1000059164.png" group-title="Bangla", Channel 1 HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c" group-title="Bangla",Deepto TV
 https://tvsen5.aynascope.net/DeeptoTVHD/index.m3u8?e=1778753303&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=54853acf882ed4e7547cc3bb699a5de7
