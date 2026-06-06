@@ -901,8 +901,6 @@ http://103.175.73.12:8080/live/53/53_0.m3u8
 http://103.175.73.12:8080/live/46/46_0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",Goldmines Action
 http://103.175.73.12:8080/live/584/584_0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",Bollywood Action
-http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",B4U MOVIES
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sonymax2.png" group-title="HINDI MOVIES",Sony Max 2
@@ -932,19 +930,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&e
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=ts
 
 #==========PREMIUM Sports==============
-
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_1_hd.png" group-title="PREMIUM SPORTS",Sony Ten Sports 1 Hd
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8?token=f24d76822bdfabde2f38b248769cf943de67fcb9-53b6b9cb1c046497705455aa754ab100-1779573243-1779562443
-
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_2_hd.png" group-title="PREMIUM SPORTS",Sony Ten Sports 2 Hd
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_2_hd/index.m3u8?token=19a3262a9abf518fd4a0554addbdea83c039f7cd-8c2818b78153657321f29e75c2f2dc08-1779573243-1779562443
-
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_5_hd.png" group-title="PREMIUM SPORTS",Sony Ten Sports 5 Hd
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_5_hd/index.m3u8?token=38389effd38d5e21d0e405f2fe8e326038d0d8de-e97da04bf44c1c89e3c2e405d13c81b4-1779573243-1779562443
-
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/ten_cricket.png" group-title="PREMIUM SPORTS",Sony Ten Cricket
-https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8?token=bef6e9bb73cf6ba6c30574ab7ad9357e8f4cfac3-2020011fd0128e44c0286371a36ee22d-1779573243-1779562443
-
 #EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
 
@@ -1014,8 +999,4 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png" group-title="LIVE SPORTS",Multigoal | PREMIER SPORTS [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
