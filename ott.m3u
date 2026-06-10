@@ -378,8 +378,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 #EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy TV
 https://sm-monirul.top/toffee/play/somoy_tv.m3u8
-#EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/f1bc37b9-1e60-4001-a557-0026f4ffd6ca.png" group-title="News",Somoy TV
-
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -754,17 +752,12 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #=============Documentary===============
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary",Discovery Bengali
 http://103.180.212.191:3500/live/573.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery English
-http://103.180.212.191:3500/live/242.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" group-title="Documentary",Discovery HD Bengali
 http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary",Discovery HD English
 http://103.180.212.191:3500/live/463.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Documentary",Discovery HD Hindi
 http://103.180.212.191:3500/live/3444.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0wag2SQ-wACpAMpjwb4Jty_-0TWRm6hyphenhypheng_jvGD0hbzxPlHQuAGwXUs1AxvLVqzuZ_XWgNf_TF7KIXVK_8ta90m_j5oJXb-tTyHzWqGuX4q_zltQ2H_kfVAN_U44nQsGLH22xeYY1EyyPqnaOxWdk9fUcwsnj676OzuvP-HQ8oyRvq4ZEzsBcvGRfhdg/s1080/1000060074.png" group-title="Documentary", Discovery Bangla
-https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=573
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_xqKi53cyxWPeBO9M4N_MTna0uVF-hOkOTSMFULJExw1yfuk9uwYklCocq5an3bZnUXEgMk96Xvm2CfCz8BEqmMtwA1L5djhujsX8IeTqBtOTpubohWRPUBmH9VJ5Tij6XGRU1lPgjHnp3jWzUYNSEvSjv1nPiO38zJB6PqfRjQyO9zLRpnPmKRrwg/s600/Nur_20251219_134350_0000.png" group-title="Documentary", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaYKo4nsfjl-QfO-HJ3R700iaCp-x3LsKi-rPiy09nA70YvHSz_q42nYSq85XlwA1cnXx6bIQjS5PHnXy2aHYNoLOGp8_MF5s0J9C-tCdIWTYw2sOH026kYor6xEFNopLemLlZIs6BjqIxBaRyp6Wod6hXKggv4sfs44jsYkRKctlwMivN_vi_U0bzA/s1080/1000010034.png" group-title="Documentary", History  TV
@@ -1007,26 +1000,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&e
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=ts
 
 #==========PREMIUM Sports==============
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3
-http://27.124.71.27/beIN_Sports_3/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/VHUi569tAW.jpg", TNT Sports 1
-http://27.124.71.27/TNT_Sports_1/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/VHUi569tAW.jpg", TNT Sports 2
-http://27.124.71.27/TNT_Sports_2/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/VHUi569tAW.jpg", TNT Sports 3
-http://27.124.71.27/TNT_Sports_3/index.m3u8
 #EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/o5BoWU_BEz.png", Fox Sports 2 - (FIFA)
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
 
