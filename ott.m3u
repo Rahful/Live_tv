@@ -987,17 +987,12 @@ http://172.31.235.10:8080/hls/55-ssselect/playlist.m3u8
 http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
 
 #=======Bangla Movie=========
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/toffee_movie.png" group-title="Bangla_Movie",Toffee Movies
-https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangla_Movie",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Bangla_Movie",Jalsha Movie HD
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Bangla_Movie",Jalsha Movies HD
-http://sm-monirul.top/SM/live.php?id=23304.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCnCv14W/T-Play.png" group-title="Bangla_Movie", Bangla Movies (Tplay)
 https://tplay.live/playlist/movies/bangla-movies/index.m3u8
@@ -1007,6 +1002,7 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla_Movie",Sananda Tv
 https://live.sanandatelevision.in/sananda/index.m3u8
+
 #========HINDI_MOVIES===========
 #EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
 http://103.175.73.12:8080/live/53/53_0.m3u8
@@ -1016,9 +1012,6 @@ http://103.175.73.12:8080/live/46/46_0.m3u8
 http://103.175.73.12:8080/live/584/584_0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",B4U MOVIES
 http://103.175.73.12:8080/live/43/43_0.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sonymax2.png" group-title="HINDI MOVIES",Sony Max 2
-https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/playlist.m3u8
-
 #=============BEIN Sports==========
 
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 1 HD
