@@ -394,12 +394,6 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ig2JePP9RbaWE3xblPeiZA","k":"e/4TUA7e5Pg37AOpB4ljBg"}],"type":"temporary"}
 https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
-
-#EXTINF:-1 tvg-chno="1433" tvg-name="Zee Bangla Sonar (FIFA BANGLA COMMENTARY)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Bengali",Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
-
 #EXTINF:-1 tvg-name="BEIN 1 FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",BEIN 1 FHD
 http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
 #EXTINF:-1 tvg-name="BEIN 4 MAX FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",BEIN 4 MAX FHD
@@ -994,7 +988,7 @@ http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
 
 #=======Bangla Movie=========
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/toffee_movie.png" group-title="Bangla_Movie",Toffee Movies
-https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8?token=6ee21cdcee9234c4777949504b8a90e5ab2622d6-1c14eecdcbed2a0531173b1e28f53765-1779573243-1779562443
+https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangla_Movie",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -1023,7 +1017,7 @@ http://103.175.73.12:8080/live/584/584_0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",B4U MOVIES
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sonymax2.png" group-title="HINDI MOVIES",Sony Max 2
-https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=9e945acc27a6f440aff8b29da2b62f25d39ca179-69765d2f4f6d7755d1a715cc4d56977e-1779573243-1779562443
+https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/playlist.m3u8
 
 #=============BEIN Sports==========
 
@@ -1049,12 +1043,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&e
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=ts
 
 #==========PREMIUM Sports==============
-
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://imglink.cc/cdn/o5BoWU_BEz.png", Fox Sports 2 - (FIFA)
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
 
 
 #=======Music=============
