@@ -368,6 +368,8 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png " group-title="World_Cup",T Sports
 http://113.21.231.219:789/Tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup
