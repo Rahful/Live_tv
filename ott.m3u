@@ -536,7 +536,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="English News",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #===========KIDS===================
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="KIDS",Cartoon Network
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="KIDS",Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="KIDS",Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -698,14 +698,23 @@ https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
 
 #========HINDI_MOVIES===========
-#EXTINF:-1 group-title="HINDI MOVIES",GOLDMINES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg" group-title="HINDI MOVIES",GOLDMINES
 http://103.175.73.12:8080/live/53/53_0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",Goldmines 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg"  group-title="HINDI MOVIES",Goldmines 2
 http://103.175.73.12:8080/live/46/46_0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",Goldmines Action
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg"  group-title="HINDI MOVIES",Goldmines Action
 http://103.175.73.12:8080/live/584/584_0.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",B4U MOVIES
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/hd/22fec733247999.56a6096d3c84d.jpg" group-title="HINDI MOVIES",B4U MOVIES
 http://103.175.73.12:8080/live/43/43_0.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="HINDI MOVIES",Sony MAX
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="HINDI MOVIES",Sony MAX 2
+https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-cdn3.welcomesoftware.com/assets/sony+movies+logo.png/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng==?width=1600&height=896" group-title="HINDI MOVIES",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png" group-title="HINDI MOVIES",Sony PIX
+https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/playlist.m3u8
+
 #=============BEIN Sports==========
 
 #EXTINF:-1 group-title="BEIN SPORTS", BEIN SPORTS 1 HD
