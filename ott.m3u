@@ -239,6 +239,8 @@ http://103.180.212.191:3500/live/3428.m3u8
 http://103.180.212.191:3500/live/463.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Documentary",Discovery HD Hindi
 http://103.180.212.191:3500/live/3444.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqM3jmM6eqtFtsp-nPt1DeUeLsQrXZJhkj77aJRmwRym4Y8tHAymBEfnw1wCKEAo4ZpbItQxWPYY2zOgL01AZw6k8geabq6Dp0e0ZQh8slrzBro9NBjm_jZvMD1XH1bblDGjl1qYZ7gUdCrLYgvEyfr6Rb32V-ExmQiW6ZSSeM4XQnaeAzfyhFu57kA/s1080/1000019821.png",Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_xqKi53cyxWPeBO9M4N_MTna0uVF-hOkOTSMFULJExw1yfuk9uwYklCocq5an3bZnUXEgMk96Xvm2CfCz8BEqmMtwA1L5djhujsX8IeTqBtOTpubohWRPUBmH9VJ5Tij6XGRU1lPgjHnp3jWzUYNSEvSjv1nPiO38zJB6PqfRjQyO9zLRpnPmKRrwg/s600/Nur_20251219_134350_0000.png" group-title="Documentary", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaYKo4nsfjl-QfO-HJ3R700iaCp-x3LsKi-rPiy09nA70YvHSz_q42nYSq85XlwA1cnXx6bIQjS5PHnXy2aHYNoLOGp8_MF5s0J9C-tCdIWTYw2sOH026kYor6xEFNopLemLlZIs6BjqIxBaRyp6Wod6hXKggv4sfs44jsYkRKctlwMivN_vi_U0bzA/s1080/1000010034.png" group-title="Documentary", History  TV
@@ -330,6 +332,21 @@ https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_640x360.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFJqjN4nfxkVw5lcWZhEe_AUk-DdkLuLZgb2idv3kZEiHPaVP7RNgk4hU4cfC-1z830otQdR_nLcarHrdSew3Cx9TylJ901V4CUAQtjeW6uP-6V-9Drdynyv8cJ75MJFP-zSEMChboJ3uPF8hL6F5rIJkQVS5wqh-NfbA2jjgg95gVlrg1VuByXbKhbg/s600/Nur_20251216_221535_0000.png" group-title="VIP-Sports", Star  Sports 1
 https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 group-title="VIP-Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrYIZ_ikoVf53Qy0W15x4R_7pAhLBz-evNTXx7pP8pgrUwyifH6IQiD3juwyCKhwP9itQ3DRuTJMQKY-j_14JSXoo8a8lwAOUUaqk6mJYG-ln7MqPhYzhszfvrf-IoJ23AGNt4Vic_PpK_o6gXvr4YAD1Bd4ob-TwzO_e0Nj1-e7JfYQqivhDMbwC3A/s1080/1000059179.png",RealMadrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="VIP-Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiqzljqddsGoAHRWPqkH656XXwtY-3TkqW-XLI_5cYhJ4UqyiI2ZXQ1kqSQE6p21-b3WmSOX6bYByJ-IDHbSMASJFTg94I_mnAg5ngz0DMHI-TTgFCrt_44bzrhSlt9Eh5r-G9XSpHqdcTqrdTSdrn7WLpgfXf8qUuUzt_KNaE9cqBcYn0GRTQqSbEjg/s1080/1000059770.png",LaLiga
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+#EXTINF:-1 group-title="VIP-Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho4KofCp6EO6222z4-lsF_PTIAT-cjb5cBGPPVQ8nsY5Q9E4seSlXVoOIZVxGqgmA99gozBuFoALrOG-geSuGMWqhrPEUassrEv6GiokQQoSkUXWBMx-f-0Sl71B9MQqSPcsyc2n7MpAxMcAUuNqlmQ8rcrcd0pY6uamuUdciBmKjcPnHqab7V55qTug/s1080/1000023507.png",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="VIP-Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE6RtSjn2ub1pivbZGmHJTMlDi9NhTRKBevAExhVo-Eyi_HF9aIAwiXCdnhf6WnizyYznxPAKdmJIaepIZ52T8otyH-iL9ImGrK0zwyMuYS3SeYNmS2a70cz5gE9sHnfOHcPUDUqVdPn1il8ROdjUAJVCem6XSZNlyIxdWQmS-1PcBn7hq5Hdqpxm1lw/s1080/1000057888.png",Bein Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR480p.m3u8
+#EXTINF:-1 group-title="VIP-Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXIZjFzJ2YsYpNb7UHY-Lphq1pivslZskNGAUYOBaUdPjLRqE5jmTY-s8gm4ECkETDT_Sy68HpaTd4M411TbKpwYM-1-124Wo4_X5cQuA5D3lWLDzTpzyyU1TuCmmwRMeh5mcqHycil2lOH3Vq_T0Ce3eP3OLekiUKlzS5amNuFI-nTjmYUM8eCTwUJw/s1080/1000063306.png",FFT TJ
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 group-title="VIP-Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA8WcSdOODjCUK9dpcDupPCDhnBZ6Wv2AHl9gEpt3tgIRyjrS9vVjRy_2yZnnXMTGjpRBY7p5LU3ScCuhM73cOP6ccz691fgKTFInBTIzFincRZagu8qiE795zI4uO6wPx0a4TL0SAKK17gisOB5FV2vl4agfMx1-IccORSMutasTBelWU808iOHYLOg/s1080/1000063302.png",TyC Sports
+https://m.mxonlive.xyz/nexusstream/tycsport.m3u8
+#EXTINF:-1 group-title="VIP-Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgyC8yKz6b86u9_RQUVuWkrj7E32kf42XAnlcp_g06WHJveiBVLVrifbas1lxROSLRWC_FHvHWibyQvG9aRNbfAfTaBtMDS4QVze7wsTNXqBdQsmVMZpNelhwS5Ppmnoh6DFtgChH3y7UFCIjrFIcMQpMYMh6HmriVFFL4yaPT000W7hN_GdNiGbf6g/s1080/1000063307.png",Willow Sports
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
 #============Indian Bangla==============
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="Indian-Bangla",Star Jalsha HD
@@ -477,6 +494,8 @@ https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/playlist.m3u8
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png" group-title="HINDI MOVIES",Sony PIX
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/playlist.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmBsBk82ozmlZjbgVO0CRwJRbB-FydnIT4Qtuh8j1NmvkWsGhP5hKZA4fUHfmx7SOHMS_rss_Io0PYbyzt7cFvXCeRDALhJtWI9YDqcOT_hWwbt34GVSywtKHtMZBhJ6xBYPlBqHoZyAVZwyBl8exXAiHF06ugCAVrqeOaORHiL8O_9F_tnByiwZIgZQ/s600/Nur_20251219_134046_0000.png",And Pictures HD
+https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/nurmd2006/offline-channels/andpictures.m3u8
 
 #=============BEIN Sports==========
 
@@ -512,6 +531,8 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFFLa5D9PY1QwJccJVBotkle4QNuD4XX4MH49p3ueGZ9y_76Uf1X98DONGky0xa1gwLHfQkubZNgFJyNpIVZlqKJykCAK1YPjJ73S5DLKj9TD-UN6WepH1tWINUYNlds6wSl-SgLn9SsqnDvnwJv-C5GHL3_JcVVZhk8t5acAKXhRKt03OABgRU1E_Hw/s600/Nur_20251227_140529_0000.png" group-title="Music", Muisc India
 https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aGNVUbiz_4uwvDSCGKS0ecKTJGQ2ZZjOgozhGv0TnAE3HosnxgBQ6IibHo60UZG1XmiePGbL8VHD92_XG6JZzaYeb7SUVE866IFBSzJGvWx-YplLPiZWlDu15DSnGfy-ofk3ccLjHhrMDnL59rnnB3sE0fyILXn_Usilf8YNvM6DLrvyhiYkpESLuA/s1080/1000061269.png",Desi Channel
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXOuGttq9F58UPTuH3QZx-eSpH2qlunCRfruR4y9lPNr_D-5goUxfNOZzdj0cLwj89VCOwlaiz2ju4TjoZ2GhXQC1hOjhZVz2gFX9PjQl-BxJos3dq2WJQFl2oluHg-_1T9ES4Hs6LJ5QMcxsvkQFymYXZUV2vLvgACYc3aeahNDXSmap2ES7s5D94w/s600/Nur_20251219_134908_0000.png" group-title="Music", B4U Music
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Music",8X music
