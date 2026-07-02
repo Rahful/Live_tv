@@ -111,11 +111,49 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg" group-title="World_Cup",Caze TV Brazil 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="World_Cup",Football World Cup 2026
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="World_Cup",Football World Cup 2026
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+#======= World Cup BD ================
+
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+http://198.195.239.50:8095/somoyTv/index.m3u8
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+http://198.195.239.50:8095/ptv/index.m3u8
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
+#====== Toffee World Cup ============
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="world cup",Toffee 1
+https://cdn-tt.pages.dev/ch3.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="world cup",Toffee 2
+https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="world cup",Toffee 3
+https://cdn-tt.pages.dev/ch2.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="world cup",Toffee 3
+https://cdn-tt.pages.dev/ch4.m3u8
+
+#====== Bioscope World Cup ============
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" group-title="world cup",Bioscope 
+http://monirul.bro.bd/fifa/bioscope.php
+#EXTINF:-1 tvg-id="iscreenhd" tvg-name="I SCREEN HD" tvg-logo="https://platform.rockstreamer.com/platforms/iscreen.com.bd/assets/logo.png" group-title="world cup",I SCREEN HD
+#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
+
+#======  World Cup ============
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTl9XIh.png" group-title="world cup",Unite8
+http://198.195.239.50:8095/unt-s/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N09UZWA.png" group-title="world cup",TSN1
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N09UZWA.png" group-title="world cup",TSN2
+http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N09UZWA.png" group-title="world cup",TSN3
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click
+
+
 #=============Documentary===============
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary",Discovery Bengali
 http://103.180.212.191:3500/live/573.m3u8
@@ -296,7 +334,7 @@ http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Bangla_Movie",Jalsha Movie HD
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCnCv14W/T-Play.png" group-title="Bangla_Movie", Bangla Movies (Tplay)
 https://tplay.live/playlist/movies/bangla-movies/index.m3u8
@@ -304,7 +342,7 @@ https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in" tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg" group-title="Bangla_Movie",MOV | ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla_Movie",Sananda Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCn8IJnL0JXWV00XZ3TDzqoIAphZWZw8Hv6Hj8xtv9uw&s=10" group-title="Bangla_Movie",Sananda Tv
 https://live.sanandatelevision.in/sananda/playlist.m3u8
 
 #========English Movie==========
