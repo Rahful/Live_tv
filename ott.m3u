@@ -404,9 +404,9 @@ http://172.31.235.10:8080/hls/31-duronto/playlist.m3u8
 http://172.31.235.10:8080/hls/34-tsportssd/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4", tsports hd_2
-http://172.17.50.115:84/ant1009/tracks-v1a1/mono.m3u8
+http://172.17.50.115:84/ant1009/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="jadoo" tvg-logo="https://i.imgur.com/yTl9XIh.png", Unit_Sports_1
-http://172.17.50.115:84/ant1002/tracks-v1a1/mono.m3u8
+http://172.17.50.115:84/ant1002/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="jadoo" tvg-logo="https://i.imgur.com/yTl9XIh.png", Unit_Sports_2
 http://172.17.50.112:84/ant1001/video.m3u8
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg", ssselect
