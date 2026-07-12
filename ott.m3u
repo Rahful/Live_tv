@@ -31,7 +31,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-id="223000" tvg-name="Islamic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="AKKAS GO",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-id="223000" tvg-name="Islamic TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="AKKAS GO",Islamic TV
-https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/mono.m3u8
+https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="134000" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="AKKAS GO",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="AKKAS GO",Channel 9 HD
@@ -112,8 +112,8 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="World_Cup",Football World Cup 2026
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="World_Cup",Football World Cup 2026
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="World_Cup",Unit 8 Sports
+https://cast.torongoplus.workers.dev/ant1002/tracks-v1a1/playlist.m3u8
 
 #======= World Cup BD ================
 
@@ -382,7 +382,7 @@ https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
 
 #==========jadoo====Local IP======
 
-#EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/nagoriktv.png", nagorik
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkAefY3Up0pYSzjYhZdSi2xVdj9G1NhjvAqAYe1TnxA&s=10", nagorik
 http://172.31.235.10:8080/hls/32-nagorik/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Somay Tv" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy-TV HD
@@ -391,10 +391,10 @@ http://172.31.235.10:8080/hls/17-somoy/playlist.m3u8
 #EXTINF:-1 tvg-name="BTV" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
 http://172.31.235.10:8080/hls/1-btv/playlist.m3u8
 
-#EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/news24.png", News24
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxKx0O0gfBkCb3LLNzCVGmK6zRGa-hsPWqlOOe_gNong&s=10", News24
 http://172.31.235.10:8080/hls/29-news24/playlist.m3u8
 
-#EXTINF:-1 group-title="jadoo", Axn
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX5mVbmvD1LpfUFx3omcpXARmHvY7DQE3EJv_dg-DekP9wC05SBRdKOP0&s=10", Axn
 http://172.31.235.10:8080/hls/54-axn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Duronto tv HD" group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",duronto tv HD
@@ -404,8 +404,11 @@ http://172.31.235.10:8080/hls/31-duronto/playlist.m3u8
 http://172.31.235.10:8080/hls/34-tsportssd/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4", tsports hd_2
+http://172.17.50.115:84/ant1009/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://i.imgur.com/yTl9XIh.png", Unit_Sports_1
+http://172.17.50.115:84/ant1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://i.imgur.com/yTl9XIh.png", Unit_Sports_2
 http://172.17.50.112:84/ant1001/video.m3u8
-
 #EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg", ssselect
 http://172.31.235.10:8080/hls/55-ssselect/playlist.m3u8
 
