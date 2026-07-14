@@ -20,6 +20,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="AKKAS GO",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3a0LPeoUyrCTegR1enzdiYZdKvM7kWsXn_Em5StQCB7WmHPXFr-RgcEQEPj9EzkCZIE27QxiCdRfoGBCOM1sax6Ux4z20b24QEyur77sS-5Bt6Acu7Yg-Cmihzimws3eUqqAkp5rqcirstEUkUOMVqMYfhjT9e6WtNttsPUpi5_yEQG7nhOVBJxEVQ/s1080/1000059164.png" group-title="AKKAS GO", Channel 1 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="AKKAS GO",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="229000" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="AKKAS GO",Maasranga TV
@@ -44,8 +46,6 @@ https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdE
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="AKKAS GO",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3a0LPeoUyrCTegR1enzdiYZdKvM7kWsXn_Em5StQCB7WmHPXFr-RgcEQEPj9EzkCZIE27QxiCdRfoGBCOM1sax6Ux4z20b24QEyur77sS-5Bt6Acu7Yg-Cmihzimws3eUqqAkp5rqcirstEUkUOMVqMYfhjT9e6WtNttsPUpi5_yEQG7nhOVBJxEVQ/s1080/1000059164.png" group-title="AKKAS GO", Channel 1 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="AKKAS GO",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="197000" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="AKKAS GO",Cineedge HD
