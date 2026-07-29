@@ -32,7 +32,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="94000" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="AKKAS GO",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NqPjRBr_sSxwb9yD4GxR-6Tl6ktmzB9W8J6BgshpRq8BsSjH9GoE6Io&s=10" group-title="BANGLA",Ekhon tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NqPjRBr_sSxwb9yD4GxR-6Tl6ktmzB9W8J6BgshpRq8BsSjH9GoE6Io&s=10" group-title="AKKAS GO",Ekhon tv
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="93000" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="AKKAS GO",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -149,20 +149,10 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 #======= World Cup BD ================
 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS",Live Sports-1 (FIFA World Cup)
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS",Live Sports-2 (FIFA World Cup)
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports-3
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS",Live Sports-4
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS",Live Sports-5
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-Sports [1]
-http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-Sports [2]
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
@@ -392,8 +382,6 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/tracks-v1a1/mono.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Music",8X music
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="BengaliBeats" tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png" group-title="Music",MU | Bengali Beats
-https://tplay.live/originals/bengali-beats/playlist.m3u8
 
 #============Indian Bangla==============
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="Indian-Bangla",Star Jalsha HD
