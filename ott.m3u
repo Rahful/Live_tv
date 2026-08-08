@@ -174,7 +174,7 @@ http://103.180.212.191:3500/live/573.m3u8
 http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary",Discovery HD English
 http://103.180.212.191:3500/live/463.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary,Discovery HD
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary",Discovery HD
 http://103.253.18.58:8000/play/a01r
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Documentary",Discovery Hindi
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
@@ -202,13 +202,13 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
 #========English News==========
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="English News",Al Jazeera
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UL3eoWl2JGKgjkCoOrKlCMQ86gJXI-ry2OkK6qke0Q&s=10" group-title="English News",Al Jazeera
 http://103.175.73.12:8080/live/318/318_0.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="English News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45M0bLFVh_G-eRE73G4oZHMxkRqtLJXgQt6ntkCn7NQ&s=10" group-title="English News,NDTV Hindi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45M0bLFVh_G-eRE73G4oZHMxkRqtLJXgQt6ntkCn7NQ&s=10" group-title="English News",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="English News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -243,10 +243,6 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEdZXO7dZ2j7aANXlozPlMhRq7w3kQBodMoJDtT7B621HQ3AvflWjdkojsDvuEcmj0eZcocNM45EY5fedma8hrnRpxw93e10EWJ8BO7ri5nGe4JFdjJ8HqFda4M4t9P45BFo9mI44JmOokosymjZyvHQAeVsJhU8jXQQdYFx5uByoGVabd3F-rbl5mQ/s1080/1000008185.png",Deen TV
 https://app.ncare.live/live-orgin/deentv.stream/playlist.m3u8
 #===========Cartoon===================
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="Cartoon",Duronto TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-#EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="Cartoon",Sony YaY!
-https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
@@ -360,19 +356,19 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/tracks-v1a1/mono.m3u8
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Music",8X music
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1,Hindi Hits HD
+#EXTINF:-1 group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1,ZB Music
+#EXTINF:-1 group-title="Music",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1,7S Music (576p)
+#EXTINF:-1 group-title="Music",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
-#EXTINF:-1,9X Jalwa (576p)
+#EXTINF:-1 group-title="Music",9X Jalwa (576p)
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-#EXTINF:-1,9X Tashan (576p)
+#EXTINF:-1 group-title="Music",9X Tashan (576p)
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
-#EXTINF:-1,Epic Music (576p)
+#EXTINF:-1 group-title="Music",Epic Music (576p)
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-#EXTINF:-1,ETV Music (1080p)
+#EXTINF:-1 group-title="Music",ETV Music (1080p)
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 
 #============Indian Bangla==============
@@ -433,9 +429,9 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwOMY2QbeCGYfqz7kDEH2DiavgnGvgOefS21V09OZZA&s=10" group-title="English Movie",Cindie TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Star Movies HD
-http://66.102.126.10:8000/play/a021/playlist.m3u8
+http://66.102.126.10:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhBcjWSMu3H62nyOiL0Yi8sQDhQNWZkdxEPFwJkJ1ww&s=10" group-title="English Movie",Star Movies Select HD
-http://66.102.126.10:8000/play/a020/playlist.m3u8
+http://66.102.126.10:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Party Univerce
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie",HBO
