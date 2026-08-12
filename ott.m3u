@@ -463,36 +463,28 @@ https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/playlist.m3u8
 https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/nurmd2006/offline-channels/andpictures.m3u8
 
 #==========jadoo====Local IP======
-
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4", tsports hd
+http://172.31.235.10:8080/hls/34-tsportssd/playlist.m3u8
 #EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkAefY3Up0pYSzjYhZdSi2xVdj9G1NhjvAqAYe1TnxA&s=10", nagorik
 http://172.31.235.10:8080/hls/32-nagorik/playlist.m3u8
-
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0LnfD-r3puU4QrmNwzMF2ICBj8VV7YJqHVTBNo7SsDQ&s=10", Aljazera
+http://172.31.235.10:8080/hls/63-aljazera/0_1/index.m3u8?tkn=244182174
 #EXTINF:-1 tvg-name="Somay Tv" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy-TV HD
 http://172.31.235.10:8080/hls/17-somoy/playlist.m3u8
-
 #EXTINF:-1 tvg-name="BTV" group-title="jadoo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
-http://172.31.235.10:8080/hls/1-btv/playlist.m3u8
+http://172.31.235.10:8080/hls/2-btvnews/1_0/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxKx0O0gfBkCb3LLNzCVGmK6zRGa-hsPWqlOOe_gNong&s=10", News24
 http://172.31.235.10:8080/hls/29-news24/playlist.m3u8
 
-#EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX5mVbmvD1LpfUFx3omcpXARmHvY7DQE3EJv_dg-DekP9wC05SBRdKOP0&s=10", Axn
-http://172.31.235.10:8080/hls/54-axn/playlist.m3u8
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX5mVbmvD1LpfUFx3omcpXARmHvY7DQE3EJv_dg-DekP9wC05SBRdKOP0&s=10", TCL HD
+http://172.31.235.10:8080/hls/38-CHANNEL-S/1_0/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Duronto tv HD" group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b",duronto tv HD
 http://172.31.235.10:8080/hls/31-duronto/playlist.m3u8
 
-#EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4", tsports hd
-http://172.31.235.10:8080/hls/34-tsportssd/playlist.m3u8
-
-#EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4", tsports hd_2
-http://172.17.50.115:84/ant1009/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="jadoo" tvg-logo="https://i.imgur.com/yTl9XIh.png", Unit_Sports_1
-http://172.17.50.115:84/ant1002/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="jadoo" tvg-logo="https://i.imgur.com/yTl9XIh.png", Unit_Sports_2
-http://172.17.50.112:84/ant1001/video.m3u8
-#EXTINF:-1 group-title="jadoo" tvg-logo="http://198.195.239.50/img/channels/star-sports-selected-1.jpg", ssselect
-http://172.31.235.10:8080/hls/55-ssselect/playlist.m3u8
+#EXTINF:-1 group-title="jadoo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmiiOuq9RGf6etM51M-r2DsATCeX11Ba8eFWgvSAaXg&s=10", ETV
+http://172.31.235.10:8080/hls/7-ekushy/1_0/playlist.m3u8
 
 #EXTINF:-1 group-title="jadoo" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380", Sangeet Bangla
 http://172.31.235.10:8080/hls/60-sangeetbangla/playlist.m3u8
