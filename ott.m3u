@@ -88,7 +88,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzayWMQexbfPV-jTx3ZNoq-XOmlHKSX1SCjg&s" group-title="SM All TV",Probashi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzayWMQexbfPV-jTx3ZNoq-XOmlHKSX1SCjg&s" group-title="BANGLA",Probashi
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 group-title="BANGLA",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
@@ -213,7 +213,7 @@ http://103.253.18.58:8000/play/a01r
 https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=575
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Documentary",Discovery HD Hindi
 https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3444
-#EXTINF:-1 tvg-id="IDHindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png" group-title="Entertainment",Investigation Discovery Hindi
+#EXTINF:-1 tvg-id="IDHindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png" group-title="Documentary",Investigation Discovery Hindi
 https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=527
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqM3jmM6eqtFtsp-nPt1DeUeLsQrXZJhkj77aJRmwRym4Y8tHAymBEfnw1wCKEAo4ZpbItQxWPYY2zOgL01AZw6k8geabq6Dp0e0ZQh8slrzBro9NBjm_jZvMD1XH1bblDGjl1qYZ7gUdCrLYgvEyfr6Rb32V-ExmQiW6ZSSeM4XQnaeAzfyhFu57kA/s1080/1000019821.png",Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
@@ -408,8 +408,10 @@ https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 #=======Bangla Movie=========
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangla_Movie",Movie Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Jalsa_Movies_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Movies",Jalsha Movies HD
+#EXTINF:-1 tvg-id="Jalsa_Movies_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla_Movie",Jalsha Movies HD
 https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=457
+#EXTINF:-1 tvg-id="Cine_Jomjomat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" group-title="Bangla_Movie",Cine Jomjomat
+https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3518
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCnCv14W/T-Play.png" group-title="Bangla_Movie", Bangla Movies (Tplay)
 https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in" tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg" group-title="Bangla_Movie",MOV | ZB Cinema
@@ -441,33 +443,6 @@ https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="English Movie",Screem
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
-#========Sports======
-#EXTINF:-1 tvg-id="SonySportsTen1HDSTB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySportsTen1HDSTB.png" group-title="Sports",Sony Sports Ten 1 HD STB
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3510
-#EXTINF:-1 tvg-id="SonySportsTen2HDSTB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySportsTen2HDSTB.png" group-title="Sports",Sony Sports Ten 2 HD STB
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3511
-#EXTINF:-1 tvg-id="SonySportsTen3HinHDSTB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySportsTen3HinHDSTB.png" group-title="Sports",Sony Sports Ten 3 Hindi HD STB
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3512
-#EXTINF:-1 tvg-id="SonySportsTen4TelSTB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySportsTen4TelSTB.png" group-title="Sports",Sony Sports Ten 4 Telugu STB
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3513
-#EXTINF:-1 tvg-id="SonySportsTen4TamSTB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySportsTen4TamSTB.png" group-title="Sports",Sony Sports Ten 4 Tamil STB
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3514
-#EXTINF:-1 tvg-id="SonySportsTen5HDSTB" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySportsTen5HDSTB.png" group-title="Sports",Sony Sports Ten 5 HD STB
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3515
-#EXTINF:-1 tvg-id="Cine_Jomjomat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" group-title="Entertainment",Cine Jomjomat
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3518
-#EXTINF:-1 tvg-id="ShreeSalangpurDham" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ShreeSalangpurDham.png" group-title="Devotional",Shree Salangpur Dham
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3519
-#EXTINF:-1 tvg-id="amg02159c11" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/amg02159c11.png" group-title="Lifestyle",Journy
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3524
-#EXTINF:-1 tvg-id="RashtriyaPahal" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RashtriyaPahal.png" group-title="News",Rashtriya Pahal
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3526
-#EXTINF:-1 tvg-id="SonyLivSports4Kan" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLivSports4Kan.png" group-title="Sports",Sony Liv Sports 4 Kannada
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3528
-#EXTINF:-1 tvg-id="4sites" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/4sites.png" group-title="News",4 SiDES TV
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3529
-#EXTINF:-1 tvg-id="UIPMPentathlonWC" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/UIPMPentathlonWC.png" group-title="Sports",UIPM Pentathlon World Cup
-https://jio-tv.sm-monirul-islam-rs.workers.dev/live.m3u8?id=3530
 #======MOVIES========
 #EXTINF:-1 tvg-id="197" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
 https://akash-by-hady.srhady.workers.dev/live/197.m3u8
