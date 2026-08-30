@@ -15,11 +15,12 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s" group-title="BANGLA",BTV News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BTV" group-title="BANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",Shagshad TV
-https://akash-by-hady.srhady.workers.dev/live/228.m3u8
+https://akash-backup.sm-monirul-islam-rs.workers.dev/btv_shangshad.m3u8
 #EXTINF:-1 tvg-id="185000" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="BANGLA",DBC News HD
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10" group-title="BANGLA", Channel 1 HD
-https://akash-by-hady.srhady.workers.dev/live/299.m3u8
+#EXTINF:-1 tvg-id="channel_1" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
+https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_1.m3u8
 #EXTINF:-1 tvg-id="102000" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="BANGLA",Ekattor HD
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-id="247000" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="BANGLA",Independent TV
@@ -444,22 +445,27 @@ https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
 #======MOVIES========
-#EXTINF:-1 tvg-id="197" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
-https://akash-by-hady.srhady.workers.dev/live/197.m3u8
-#EXTINF:-1 tvg-id="193" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png" group-title="Movies",Originals
-https://akash-by-hady.srhady.workers.dev/live/193.m3u8
-#EXTINF:-1 tvg-id="214" tvg-name="Crimes" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-title="Movies",Crimes
-https://akash-by-hady.srhady.workers.dev/live/214.m3u8
-#EXTINF:-1 tvg-id="192" tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="Movies",Screem
-https://akash-by-hady.srhady.workers.dev/live/192.m3u8
-#EXTINF:-1 tvg-id="198" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="Movies",Superrix HD
-https://akash-by-hady.srhady.workers.dev/live/198.m3u8
-#EXTINF:-1 tvg-id="196" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="Movies",Uniques HD
-https://akash-by-hady.srhady.workers.dev/live/196.m3u8
-#EXTINF:-1 tvg-id="216" tvg-name="Intelligence" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Movies",Intelligence
-https://akash-by-hady.srhady.workers.dev/live/216.m3u8
-#EXTINF:-1 tvg-id="215" tvg-name="True Stories" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-title="Movies",True Stories
-https://akash-by-hady.srhady.workers.dev/live/215.m3u8
+#EXTINF:-1 tvg-id="originals" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png" group-title="Movies",Originals
+https://akash-backup.sm-monirul-islam-rs.workers.dev/originals.m3u8
+#EXTINF:-1 tvg-id="cineedge_hd" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/cineedge_hd.m3u8
+
+#EXTINF:-1 tvg-id="crimes" tvg-name="Crimes" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-title="Movies",Crimes
+https://akash-backup.sm-monirul-islam-rs.workers.dev/crimes.m3u8
+
+#EXTINF:-1 tvg-id="screem" tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="Movies",Screem
+https://akash-backup.sm-monirul-islam-rs.workers.dev/screem.m3u8
+
+#EXTINF:-1 tvg-id="superrix_hd" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="Movies",Superrix HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/superrix_hd.m3u8
+
+#EXTINF:-1 tvg-id="uniques_hd" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="Movies",Uniques HD
+https://akash-backup.sm-monirul-islam-rs.workers.dev/uniques_hd.m3u8
+#EXTINF:-1 tvg-id="intelligence" tvg-name="Intelligence" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Movies",Intelligence
+https://akash-backup.sm-monirul-islam-rs.workers.dev/intelligence.m3u8
+
+#EXTINF:-1 tvg-id="true_stories" tvg-name="True Stories" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-title="Movies",True Stories
+https://akash-backup.sm-monirul-islam-rs.workers.dev/true_stories.m3u8
 
 #========HINDI_MOVIES===========
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg" group-title="HINDI MOVIES",GOLDMINES
