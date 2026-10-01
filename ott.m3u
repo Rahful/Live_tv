@@ -10,14 +10,8 @@
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",Somoy TV
 https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/live/somoy_tv_720/chunks.m3u8
-#EXTINF:-1 tvg-name="BTV" group-title="BANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV HD
-https://live.btvlive.gov.bd/live/88596f54-1b5b-4b6c-9c2b-6734d39a9e1b/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1920&q=75" group-title="BANGLA",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-name="BTV" group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvlBJa-knSvnOraEXizzad9flTww1jnAV7KQ4Qi7XmOg&s=10",Shagshad HD
-https://gov.iptv-stock.workers.dev/live/9d325a8f-4d69-41d9-bcf4-5095cd5d44e8/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s" group-title="BANGLA",BTV News
-https://gov.iptv-stock.workers.dev/live/9d325a8f-4d69-41d9-bcf4-5095cd5d44e8/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/playlist.m3u8
 #EXTINF:-1 tvg-id="185000" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="BANGLA",DBC News HD
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 tvg-id="channel_1" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="BANGLA",Channel 1
@@ -92,6 +86,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzayWMQexbfPV-jTx3ZNoq-XOmlHKSX1SCjg&s" group-title="BANGLA",Probashi
 http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-name="BTV" group-title="BANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV HD
+https://live.btvlive.gov.bd/live/88596f54-1b5b-4b6c-9c2b-6734d39a9e1b/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/playlist.m3u8
+#EXTINF:-1 tvg-name="BTV" group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvlBJa-knSvnOraEXizzad9flTww1jnAV7KQ4Qi7XmOg&s=10",Shagshad HD
+https://gov.iptv-stock.workers.dev/live/9d325a8f-4d69-41d9-bcf4-5095cd5d44e8/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s" group-title="BANGLA",BTV News
+https://gov.iptv-stock.workers.dev/live/9d325a8f-4d69-41d9-bcf4-5095cd5d44e8/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 group-title="BANGLA",News 21 Bangla TV
