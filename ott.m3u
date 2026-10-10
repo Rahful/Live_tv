@@ -220,13 +220,11 @@ http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/72192.ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" group-title="Documentary",Discovery Bengali
 http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/510485.ts
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary",Discovery HD English
-http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/72192.ts
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary",Discovery HD
-http://202.70.146.135:8000/play/a05z/index.m3u8
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34708.ts
 #EXTINF:-1 tvg-id="IDHindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png" group-title="Documentary",Investigation Discovery Hindi
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/live/id_hd/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqM3jmM6eqtFtsp-nPt1DeUeLsQrXZJhkj77aJRmwRym4Y8tHAymBEfnw1wCKEAo4ZpbItQxWPYY2zOgL01AZw6k8geabq6Dp0e0ZQh8slrzBro9NBjm_jZvMD1XH1bblDGjl1qYZ7gUdCrLYgvEyfr6Rb32V-ExmQiW6ZSSeM4XQnaeAzfyhFu57kA/s1080/1000019821.png",Discovery Asia
-https://drk6xq0vhn.gpcdn.net/live/bbc_earth_hd_abr/live/sony_bbc_earth_hd_720/chunks.m3u8?nimblesessionid=198897672
+https://drk6xq0vhn.gpcdn.net/live/bbc_earth_hd_abr/live/sony_bbc_earth_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_xqKi53cyxWPeBO9M4N_MTna0uVF-hOkOTSMFULJExw1yfuk9uwYklCocq5an3bZnUXEgMk96Xvm2CfCz8BEqmMtwA1L5djhujsX8IeTqBtOTpubohWRPUBmH9VJ5Tij6XGRU1lPgjHnp3jWzUYNSEvSjv1nPiO38zJB6PqfRjQyO9zLRpnPmKRrwg/s600/Nur_20251219_134350_0000.png" group-title="Documentary", Animal Planet
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaYKo4nsfjl-QfO-HJ3R700iaCp-x3LsKi-rPiy09nA70YvHSz_q42nYSq85XlwA1cnXx6bIQjS5PHnXy2aHYNoLOGp8_MF5s0J9C-tCdIWTYw2sOH026kYor6xEFNopLemLlZIs6BjqIxBaRyp6Wod6hXKggv4sfs44jsYkRKctlwMivN_vi_U0bzA/s1080/1000010034.png" group-title="Documentary", History  TV
@@ -234,15 +232,17 @@ http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/72200.ts
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg" group-title="Documentary", Nat Geo Bangla
 http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34729.ts
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg" group-title="Documentary",National Geography HD
-http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/natgeohd.png" group-title="Documentary", Wild HD (1080p)
-http://202.70.146.135:8000/play/a05j/index.m3u8
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34693.ts
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/natgeohd.png" group-title="Documentary", Neo Wild HD (1080p)
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34694.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp bangla
-http://premiumtvs.space:80/live/samsung2861/manager5554/20622.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkGqUKmpju0bOD-Yq5DvO3VRopZwxgLguE0BZK8WxfGw&s=10" group-title="Documentary",BBC Earth
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/808799.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvO5QoPIEEotj-4JPJIcdJbjWHY46i3Z-GLL_z9F-ow&s" group-title="Documentary",TLC HD
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34680.ts
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Documentary",REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
