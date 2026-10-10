@@ -527,5 +527,11 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&e
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=ts
 
 
+#EXTINF:-1,CineMania Bangla 1 FHD
+http://it-af.packetcdn.me:8373/8ff02c8d28529a58b8bdb43d2bc37a1c4668b57f923e1a403f7917f218a1adbe7a45/index.m3u8
+
+#EXTINF:-1,National Geographic HD
+http://engca.packetcdn.me:8978/8ff02c8d28529a58b8bdb43d2bc27a025b65b861902c065e277117fb18aabaa8735ed9e1/index.m3u8
+
 
 
