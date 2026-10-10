@@ -115,7 +115,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://iptvbd.live/metv1080/1080.m3u8
 #======= Sports BD ================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbvbq_za5KYQ6mf_JLNah7DGI6F-ezkS3q1orkThmxg&s=10"  group-title="SPORTS",T Sports HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1404538.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T SPORTS
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 #EXTINF:-1 group-title="SPORTS",PTV
@@ -123,7 +123,7 @@ https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 #EXTINF:-1 group-title="SPORTS",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",Willow HD
-https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1404524.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SPORTS",Bein Sports
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/6625.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SPORTS",Bein Sports xtra
@@ -136,8 +136,8 @@ https://messi.damitv.st/papi/ts/tudn-usa/playlist.m3u8
 http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Star Sports SL 1
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
+#EXTINF:-1 group-title="SPORTS",Ten Sports
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1406508.ts
 #EXTINF:-1 group-title="SPORTS",Star Sports SL 2
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",Sony Ten Sports 1 HD
@@ -148,10 +148,8 @@ https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",Sony Ten Sports 5 HD 
 https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8?edge-cache-token=Expires=1790859680~Starts=1790856080~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=V-RvmlmMqWHFWDYPFCdHH_22YiQl2R5v3TDEVQkyr7cqd7MgIsRMrOt_RaAv0UXuv-Ni5gsF4aCuBcTumJ3SDA
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",Sony Ten Cricket
-https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1790859680~Starts=1790856080~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=V-RvmlmMqWHFWDYPFCdHH_22YiQl2R5v3TDEVQkyr7cqd7MgIsRMrOt_RaAv0UXuv-Ni5gsF4aCuBcTumJ3SDA
-#EXTINF:-1 group-title="SPORTS",Bein Sports
+https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
@@ -207,7 +205,7 @@ https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCSvEmAvqf0bXOPUrlifqT-jejbZcRnqHlfPvhBTvYGxMy1mbIr527uZz5qKJyMcDt8RyH8z_3zrNNcS80bs_IDGl2SvsxQfaKVjk7L55blRjuI5z-koVFxYccyYpU1ZnHDH9dmAASP227AADBF9RrnzXyL1C83gOmExVccG-xBnqIzaOwokZTuKGhw/s1080/1000021570.png" group-title="Drama", Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2-m9-_smm4H59l5-7HpMb0i80SFTJ8LQTF8IgoaFPw&s=10" group-title="Drama",Star Plus HD
-http://202.70.146.135:8000/play/a009/index.m3u8
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1019855.ts
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcqLiHMjvLT8XqdalwBwQGVmhZOShc_6HJhREB83W6As-mqWqJBTbWr5GyxemwlyQX56tvOCrs2pNIxd7trX1Xfm2YAuwNSCYM5T6Ymul5bn5UN3hT-y9RZRG26FFzT7k7YroC5Pc69ZMCm_GnNdKAN5KrVKonLDQ_HriDLfA-2p8lkeRxH1_HOziPNw/s600/Nur_20251107_000656_0000.png" group-title="Drama", Hum Sitaray
 https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2GhvnBFSJrh5w51jX8ZTvd2fMp9S_kjnenXDDItSDOyEfXMBZtmzFfuCCTAAwVlY_bMJvlGw0yzqDCCh4G8cI02Iiv5oEIqQP_y8XZ-EB-icXoRd0zWDcburc-kpS2UxS8LVpe1EWU6iIQRUd2tx-NIYl9-vGNDXnS61l8SJk44ul4sQirGmU7RFhSg/s1080/1000019127.png" group-title="Drama", Exp Entertainment
@@ -218,11 +216,11 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 #=============Documentary===============
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Documentary",Discovery HD Hindi
-https://gpcdn.dth-oparator.workers.dev/torongoplus/discovery_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" group-title="Documentary",Discovery HD Bengali
-http://premiumtvs.space:80/live/samsung2861/manager5554/406.ts
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/72192.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" group-title="Documentary",Discovery Bengali
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/510485.ts
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary",Discovery HD English
-http://202.70.146.135:8000/play/a05z/index.m3u8#skym3u.dev
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/72192.ts
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Documentary",Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="IDHindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IDHindi.png" group-title="Documentary",Investigation Discovery Hindi
@@ -232,9 +230,9 @@ https://drk6xq0vhn.gpcdn.net/live/bbc_earth_hd_abr/live/sony_bbc_earth_hd_720/ch
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_xqKi53cyxWPeBO9M4N_MTna0uVF-hOkOTSMFULJExw1yfuk9uwYklCocq5an3bZnUXEgMk96Xvm2CfCz8BEqmMtwA1L5djhujsX8IeTqBtOTpubohWRPUBmH9VJ5Tij6XGRU1lPgjHnp3jWzUYNSEvSjv1nPiO38zJB6PqfRjQyO9zLRpnPmKRrwg/s600/Nur_20251219_134350_0000.png" group-title="Documentary", Animal Planet
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaYKo4nsfjl-QfO-HJ3R700iaCp-x3LsKi-rPiy09nA70YvHSz_q42nYSq85XlwA1cnXx6bIQjS5PHnXy2aHYNoLOGp8_MF5s0J9C-tCdIWTYw2sOH026kYor6xEFNopLemLlZIs6BjqIxBaRyp6Wod6hXKggv4sfs44jsYkRKctlwMivN_vi_U0bzA/s1080/1000010034.png" group-title="Documentary", History  TV
-https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg" group-title="Documentary", Nat Geo HD
-http://premiumtvs.space:80/live/samsung2861/manager5554/98875.ts
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/72200.ts
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg" group-title="Documentary", Nat Geo Bangla
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34729.ts
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg" group-title="Documentary",National Geography HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/natgeohd.png" group-title="Documentary", Wild HD (1080p)
@@ -299,7 +297,7 @@ https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Cartoon",Disney Channel
 http://181.119.215.61:8000/play/a0g1/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png" group-title="Cartoon",Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/175131.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Cartoon",Sony Yay Bangla
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_yay.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="Cartoon",Sonic Bangla
@@ -332,7 +330,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #===========KIDS===================
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="KIDS",Cartoon Network
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/175131.ts
 #EXTINF:-1 tvg-id="GopalVar.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="KIDS",0. Gopal Var
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-id="TomandJerry2" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="KIDS",Tom and Jerry
@@ -435,16 +433,16 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/index.m3u8
 https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/srktv.m3u8
 
 #========English Movie==========
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Box Cinama
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6T-jlUlJmwQrEq0FKxIFLbPKXX0s0ZM2Pf0LF2HGqgg&s=10" group-title="English Movie",Movies Now
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34697.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwOMY2QbeCGYfqz7kDEH2DiavgnGvgOefS21V09OZZA&s=10" group-title="English Movie",Cindie TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Star Movies HD
 https://robitv.com/rn/http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhBcjWSMu3H62nyOiL0Yi8sQDhQNWZkdxEPFwJkJ1ww&s=10" group-title="English Movie",Star Movies Select HD
-http://66.102.126.10:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Star Movies HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1020182.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWz9itX7kadkedzEaeLssRN4XncpSzmi12DRC4p8iRA&s=10" group-title="English Movie",Mnx HD
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1020230.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg" group-title="English Movie",EN | HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&s=10" group-title="English Movie",Action Hollywood Movies
@@ -472,7 +470,7 @@ https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-cdn3.welcomesoftware.com/assets/sony+movies+logo.png/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng==?width=1600&height=896" group-title="HINDI MOVIES",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png" group-title="HINDI MOVIES",Sony PIX
-https://tv.nurmd2006-official.workers.dev/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1020173.ts
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmBsBk82ozmlZjbgVO0CRwJRbB-FydnIT4Qtuh8j1NmvkWsGhP5hKZA4fUHfmx7SOHMS_rss_Io0PYbyzt7cFvXCeRDALhJtWI9YDqcOT_hWwbt34GVSywtKHtMZBhJ6xBYPlBqHoZyAVZwyBl8exXAiHF06ugCAVrqeOaORHiL8O_9F_tnByiwZIgZQ/s600/Nur_20251219_134046_0000.png",Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
 
@@ -525,211 +523,5 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&e
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=tss
-
-#EXTINF:-1 group-title="BEIN SPORTS",CineMania Bangla 1 FHD
-http://it-af.packetcdn.me:8373/8ff02c8d28529a58b8bdb43d2bc37a1c4668b57f923e1a403f7917f218a1adbe7a45/playlist.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORTS"a,National Geographic HD
-http://engca.packetcdn.me:8978/8ff02c8d28529a58b8bdb43d2bc27a025b65b861902c065e277117fb18aabaa8735ed9e1/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV",Channel 985101
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985101&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985102
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985102&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985103
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985103&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985104
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985104&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985105
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985105&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985106
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985106&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985107
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985107&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985108
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985108&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985109
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985109&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985110
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985110&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985111
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985111&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985112
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985112&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985113
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985113&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985114
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985114&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985115
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985115&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985116
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985116&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985117
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985117&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985118
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985118&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985119
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985119&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985120
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985120&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985121
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985121&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985122
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985122&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985123
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985123&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985124
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985124&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985125
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985125&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985126
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985126&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985127
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985127&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985128
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985128&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985129
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985129&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985130
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985130&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985131
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985131&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985132
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985133
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985133&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985134
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985134&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985135
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985135&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985136
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985136&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985137
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985137&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985138
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985138&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985139
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985139&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985140
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985140&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985141
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985141&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985142
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985142&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985143
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985143&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985144
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985144&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985145
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985145&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985146
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985146&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985147
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985147&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985148
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985148&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985149
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985149&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985150
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985150&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985151
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985151&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985152
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985152&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985153
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985153&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985154
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985154&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985155
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985155&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985156
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985156&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985157
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985157&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985158
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985158&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985159
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985159&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985160
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985160&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985161
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985161&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985162
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985162&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985163
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985163&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985164
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985164&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985165
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985165&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985166
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985166&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985167
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985167&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985168
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985168&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985169
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985169&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985170
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985170&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985171
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985171&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985172
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985172&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985173
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985173&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985174
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985174&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985175
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985175&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985176
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985176&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985177
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985177&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985178
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985178&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985179
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985179&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985180
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985180&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985181
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985181&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985182
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985182&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985183
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985183&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985184
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985184&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985185
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985185&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985186
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985186&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985187
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985187&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985188
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985188&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985189
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985189&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985190
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985190&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985191
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985191&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985192
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985192&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985193
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985193&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985194
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985194&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985195
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985195&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985196
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985196&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985197
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985197&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985198
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985198&extension=ts
-#EXTINF:-1 group-title="IPTV",Channel 985199
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985199&extension=ts
-
 
 
