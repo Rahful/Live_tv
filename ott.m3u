@@ -238,10 +238,10 @@ https://drk6xq0vhn.gpcdn.net/live/and_picture_hd_abr/index.m3u8#skym3u.dev
 #========English Movie==========
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6T-jlUlJmwQrEq0FKxIFLbPKXX0s0ZM2Pf0LF2HGqgg&s=10" group-title="English Movie",Movies Now
 http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34697.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwOMY2QbeCGYfqz7kDEH2DiavgnGvgOefS21V09OZZA&s=10" group-title="English Movie",Cindie TV
-https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Star Movies HD
-https://robitv.com/rn/http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwOMY2QbeCGYfqz7kDEH2DiavgnGvgOefS21V09OZZA&s=10" group-title="English Movie",Star Movies HD
+https://app.uckingcrazy1.workers.dev/api/play/Star%20Movies.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Star Movies
+http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhBcjWSMu3H62nyOiL0Yi8sQDhQNWZkdxEPFwJkJ1ww&s=10" group-title="English Movie",Star Movies Select HD
 http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1020182.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWz9itX7kadkedzEaeLssRN4XncpSzmi12DRC4p8iRA&s=10" group-title="English Movie",Mnx HD
