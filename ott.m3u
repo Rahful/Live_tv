@@ -261,9 +261,9 @@ https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/srktv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6T-jlUlJmwQrEq0FKxIFLbPKXX0s0ZM2Pf0LF2HGqgg&s=10" group-title="English Movie",Movies Now
 http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/34697.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwOMY2QbeCGYfqz7kDEH2DiavgnGvgOefS21V09OZZA&s=10" group-title="English Movie",Star Movies HD
-https://app.uckingcrazy1.workers.dev/api/play/Star%20Movies.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Star Movies
-http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",MN + HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9383.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhBcjWSMu3H62nyOiL0Yi8sQDhQNWZkdxEPFwJkJ1ww&s=10" group-title="English Movie",Star Movies Select HD
 http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1020182.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWz9itX7kadkedzEaeLssRN4XncpSzmi12DRC4p8iRA&s=10" group-title="English Movie",Mnx HD
@@ -272,12 +272,12 @@ http://play01.online:80/live/8F9J45X7436B97Z/7uW6IX2qh5/1020230.ts
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&s=10" group-title="English Movie",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Party Univerce
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="English Movie",My Cinema
-https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="English Movie",Screem
-https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Sony Pix HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/147.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="English Movie", Colors Infinity
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/187.ts
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="English Movie",Romedy Now
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/179.ts
 
 #=============Documentary===============
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" group-title="Documentary",Discovery HD Hindi
