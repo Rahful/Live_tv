@@ -524,7 +524,7 @@ http://172.31.235.10:8080/hls/2-btvnews/0_1/index.m3u8
 #EXTINF:-1 tvg-id="49" tvg-name="BTV NATIONAL HD" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Jadoo",ATN Bangla
 http://172.31.235.10:8080/hls/5-atnbangla/0_1/index.m3u8
 #EXTINF:-1 tvg-id="93000" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="Jadoo",ATN News
-http://172.31.235.10:8080/hls/14-atnnews/0_1/index.m3u8
+http://172.31.235.10:8080/hls/14-atnnews/0_1/playlist.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="CHANNEL I HD" tvg-logo="https://i.postimg.cc/yxtFNpZ4/Channel-i.jpg" group-title="Jadoo",CHANNEL I HD
 http://172.31.235.10:8080/hls/6-channeli/0_1/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="CHANNEL I HD" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Jadoo",Ekushy ETV
@@ -535,8 +535,8 @@ http://172.31.235.10:8080/hls/8-ntv/1_0/index.m3u8
 http://172.31.235.10:8080/hls/9-rtv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="BANGLA VISION HD" tvg-logo="https://i.postimg.cc/q7wyKv3N/Banglavision.png" group-title="Jadoo",BANGLA VISION HD
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/44.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="BANGLA VISION HD" tvg-logo="https://i.postimg.cc/q7wyKv3N/Banglavision.png" group-title="Jadoo",Boishakhi TV
-http://172.31.235.10:8080/hls/10-boishakhi/0_1/58278742_58280742.ts
+#EXTINF:-1 tvg-id="44" tvg-name="BANGLA VISION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXLTwgFAJnI77H9VD2uLk6Gsfyb3TkYTj76V0ItvofrQ&s" group-title="Jadoo",Boishakhi TV
+http://172.31.235.10:8080/hls/10-boishakhi/0_1/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="JAMUNA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNn6MYWsg1IZwmt68IHpZFTyh9tlLSkqfqEzkD2w6sg&s=10" group-title="Jadoo",Desh TV
 http://172.31.235.10:8080/hls/12-desh/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="Jadoo",MY TV HD
